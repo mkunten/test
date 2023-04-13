@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="tei_all_ja_450%20(1).rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="file:/F:/RA/tei_all_ja_450%20(1).rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -22,7 +22,7 @@
    
 <text>
     <body style="writing-mode: vertical-rl;">
-        <pb n="1"/>g
+        <pb n="1"/>
         <pb n="2"/>
         <pb n="3"/>
 <p><lb/>海外異聞
@@ -134,162 +134,162 @@
          <lb/><placeName corresp="#広東">清国広東</placeName> <placeName corresp="#北極">北極</placeName>出地二十三度七十分</p>
 
     <p><lb/>海外異聞巻之一
-        <lb/><ruby><rb>初</rb><rt place="righit">はじめ</rt></ruby>て<ruby><rb>漂流</rb><rt place="righit">ひよふりふ</rt></ruby>せしより<placeName corresp="#亜墨利加"><ruby><rb>亜墨利加</rb><rt place="righit">あめりか</rt></ruby></placeName>に<ruby><rb>至</rb><rt place="righit">いた</rt></ruby>り<placeName corresp="#サンホセ">サンホセ</placeName>に
-    <lb/><ruby><rb>留</rb><rt place="righit">とま</rt></ruby>りしまての<ruby><rb>話</rb><rt place="righit">はなし</rt></ruby>
-        <lb/><date>天保十二<ruby><rb>辛丑</rb><rt place="righit">かのとのうし</rt></ruby>の<ruby><rb>秋</rb><rt place="righit">あき</rt></ruby>八月</date><placeName corresp="#兵庫"><ruby><rb>兵庫</rb><rt place="righit">ひよふご</rt></ruby><ruby><rb>西宮内町</rb><rt place="righit">にしくないまち</rt></ruby></placeName><persName corresp="#中村屋伊兵衛"><ruby><rb>中村</rb><rt place="righit">なかむら</rt></ruby>屋<ruby><rb>伊</rb><rt place="righit">い</rt></ruby>兵衛</persName>
-    <lb/>船<ruby><rb>永住丸</rb><rt place="righit">ゑいぢうまる</rt></ruby>とて千二百石<ruby><rb>積</rb><rt place="righit">づみ</rt></ruby>二十八<ruby><rb>端帆</rb><rt place="righit">たんぼ</rt></ruby>なるにしほ
-    <lb/><ruby><rb>砂糖</rb><rt place="righit">さとふ</rt></ruby>せんこふ<ruby><rb>菉豆</rb><rt place="righit">やゑなり</rt><rt place="left">ブンドウ</rt></ruby>并<ruby><rb>狼米</rb><rt place="righit">ろふまゐ</rt></ruby>十五<ruby><rb>俵</rb><rt place="righit">ひよふ</rt></ruby>をつみ入<ruby><rb>乗組</rb><rt place="righit">のりくみ</rt></ruby>の
+        <lb/><ruby><rb>初</rb><rt place="right">はじめ</rt></ruby>て<ruby><rb>漂流</rb><rt place="right">ひよふりふ</rt></ruby>せしより<placeName corresp="#亜墨利加"><ruby><rb>亜墨利加</rb><rt place="right">あめりか</rt></ruby></placeName>に<ruby><rb>至</rb><rt place="right">いた</rt></ruby>り<placeName corresp="#サンホセ">サンホセ</placeName>に
+    <lb/><ruby><rb>留</rb><rt place="right">とま</rt></ruby>りしまての<ruby><rb>話</rb><rt place="right">はなし</rt></ruby>
+        <lb/><date>天保十二<ruby><rb>辛丑</rb><rt place="right">かのとのうし</rt></ruby>の<ruby><rb>秋</rb><rt place="right">あき</rt></ruby>八月</date><placeName corresp="#兵庫"><ruby><rb>兵庫</rb><rt place="right">ひよふご</rt></ruby><ruby><rb>西宮内町</rb><rt place="right">にしくないまち</rt></ruby></placeName><persName corresp="#中村屋伊兵衛"><ruby><rb>中村</rb><rt place="right">なかむら</rt></ruby>屋<ruby><rb>伊</rb><rt place="right">い</rt></ruby>兵衛</persName>
+    <lb/>船<ruby><rb>永住丸</rb><rt place="right">ゑいぢうまる</rt></ruby>とて千二百石<ruby><rb>積</rb><rt place="right">づみ</rt></ruby>二十八<ruby><rb>端帆</rb><rt place="right">たんぼ</rt></ruby>なるにしほ
+    <lb/><ruby><rb>砂糖</rb><rt place="right">さとふ</rt></ruby>せんこふ<ruby><rb>菉豆</rb><rt place="right">やゑなり</rt><rt place="left">ブンドウ</rt></ruby>并<ruby><rb>狼米</rb><rt place="right">ろふまゐ</rt></ruby>十五<ruby><rb>俵</rb><rt place="right">ひよふ</rt></ruby>をつみ入<ruby><rb>乗組</rb><rt place="right">のりくみ</rt></ruby>の
     <lb/>人数には
-        <lb/><ruby><rb>沖船頭</rb><rt place="righit">おきせんどふ</rt></ruby><placeName corresp="#周佐美"><ruby><rb>紀州周佐美</rb><rt place="righit">きしうすさみ</rt></ruby></placeName> <persName corresp="#善助"><ruby><rb>善助</rb><rt place="righit">ぜんすけ</rt></ruby></persName>
-        <lb/><ruby><rb>岡廻</rb><rt place="righit">おかまは</rt></ruby>り<placeName corresp="#阿波"><ruby><rb>阿波</rb><rt place="righit">あは</rt></ruby></placeName> <persName corresp="#初太郎"><ruby><rb>初</rb><rt place="righit">はつ</rt></ruby>太郎</persName>
+        <lb/><ruby><rb>沖船頭</rb><rt place="right">おきせんどふ</rt></ruby><placeName corresp="#周佐美"><ruby><rb>紀州周佐美</rb><rt place="right">きしうすさみ</rt></ruby></placeName> <persName corresp="#善助"><ruby><rb>善助</rb><rt place="right">ぜんすけ</rt></ruby></persName>
+        <lb/><ruby><rb>岡廻</rb><rt place="right">おかまは</rt></ruby>り<placeName corresp="#阿波"><ruby><rb>阿波</rb><rt place="right">あは</rt></ruby></placeName> <persName corresp="#初太郎"><ruby><rb>初</rb><rt place="right">はつ</rt></ruby>太郎</persName>
        <persName corresp="#七太郎">初太郎兄 七太郎</persName>
 
     <pb n="8"/>
-        <lb/><placeName corresp="#伊予"><ruby><rb>伊予</rb><rt place="righit">いよ</rt></ruby></placeName> <persName corresp="#伊之助">伊之助</persName>
-        <lb/><placeName corresp="#能登"><ruby><rb>能登</rb><rt place="righit">のと</rt></ruby></placeName> <persName corresp="#利三郎">利三郎</persName>
-        <lb/><placeName corresp="#伊豆"><ruby><rb>伊豆</rb><rt place="righit">いづ</rt></ruby></placeName> <persName corresp="万蔵"><ruby><rb>万蔵</rb><rt place="righit">まんぞふ</rt></ruby></persName>
-        <lb/><placeName corresp="#奥州南部"><ruby><rb>奥州南部</rb><rt place="righit">おうしうなんぶ</rt></ruby></placeName> <persName corresp="#要蔵"><ruby><rb>要</rb><rt place="righit">よふ</rt></ruby>蔵</persName>
+        <lb/><placeName corresp="#伊予"><ruby><rb>伊予</rb><rt place="right">いよ</rt></ruby></placeName> <persName corresp="#伊之助">伊之助</persName>
+        <lb/><placeName corresp="#能登"><ruby><rb>能登</rb><rt place="right">のと</rt></ruby></placeName> <persName corresp="#利三郎">利三郎</persName>
+        <lb/><placeName corresp="#伊豆"><ruby><rb>伊豆</rb><rt place="right">いづ</rt></ruby></placeName> <persName corresp="万蔵"><ruby><rb>万蔵</rb><rt place="right">まんぞふ</rt></ruby></persName>
+        <lb/><placeName corresp="#奥州南部"><ruby><rb>奥州南部</rb><rt place="right">おうしうなんぶ</rt></ruby></placeName> <persName corresp="#要蔵"><ruby><rb>要</rb><rt place="right">よふ</rt></ruby>蔵</persName>
         <lb/>同 <persName corresp="#三兵衛">三兵衛</persName>
-        <lb/><placeName corresp="#播州明石東垂水"><ruby><rb>播州明石</rb><rt place="righit">ばんしうあかし</rt></ruby>東垂水</placeName> <persName corresp="#岩兵衛"><ruby><rb>岩</rb><rt place="righit">いは</rt></ruby>兵衛</persName>
-        <lb/><placeName corresp="#能登"><ruby><rb>能登</rb><rt place="righit">のと</rt></ruby></placeName> <persName corresp="#官次郎"><ruby><rb>官</rb><rt place="righit">かん</rt></ruby>次郎</persName>
-        <lb/>同 <persName corresp="#惣助"><ruby><rb>惣</rb><rt place="righit">そふ</rt></ruby>助</persName>
-        <lb/><placeName corresp="#九州"><ruby><rb>九州</rb><rt place="righit">きうしう</rt></ruby></placeName> <persName corresp="#多吉">多吉</persName>
-        <lb/><placeName corresp="#紀州"><ruby><rb>紀州</rb><rt place="righit">きしう</rt></ruby></placeName> <persName corresp="#弥一郎">弥一郎</persName>
+        <lb/><placeName corresp="#播州明石東垂水"><ruby><rb>播州明石</rb><rt place="right">ばんしうあかし</rt></ruby>東垂水</placeName> <persName corresp="#岩兵衛"><ruby><rb>岩</rb><rt place="right">いは</rt></ruby>兵衛</persName>
+        <lb/><placeName corresp="#能登"><ruby><rb>能登</rb><rt place="right">のと</rt></ruby></placeName> <persName corresp="#官次郎"><ruby><rb>官</rb><rt place="right">かん</rt></ruby>次郎</persName>
+        <lb/>同 <persName corresp="#惣助"><ruby><rb>惣</rb><rt place="right">そふ</rt></ruby>助</persName>
+        <lb/><placeName corresp="#九州"><ruby><rb>九州</rb><rt place="right">きうしう</rt></ruby></placeName> <persName corresp="#多吉">多吉</persName>
+        <lb/><placeName corresp="#紀州"><ruby><rb>紀州</rb><rt place="right">きしう</rt></ruby></placeName> <persName corresp="#弥一郎">弥一郎</persName>
 
-        <lb/>以上十三人ニ而※<date>同月廿三日</date><placeName corresp="#兵庫"><ruby><rb>兵庫</rb><rt place="righit">ひやうご</rt></ruby></placeName><ruby><rb>出帆</rb><rt place="righit">しゆつぱん</rt></ruby>いたし<date>九月十八日</date><placeName corresp="#相模国浦賀"><ruby><rb>相</rb><rt place="righit">さ</rt></ruby>
-    <lb/><ruby><rb>摸国浦賀</rb><rt place="righit">がみのくにうらか</rt></ruby></placeName>のみなとへ着 <ruby><rb>公</rb><rt place="righit">きみ</rt></ruby>の<ruby><rb>御改</rb><rt place="righit">あらため</rt></ruby>を<ruby><rb>受</rb><rt place="righit">うけ</rt></ruby>て <ruby><rb>舟問</rb><rt place="righit">ふなどひ</rt></ruby>や
-    <lb/><ruby><rb>役塚惣</rb><rt place="righit">やくつかそふ</rt></ruby>太郎方へ<ruby><rb>菉豆</rb><rt place="righit">やへなり</rt></ruby>七十<ruby><rb>俵</rb><rt place="righit">びよう</rt></ruby>水<ruby><rb>揚</rb><rt place="righit">あげ</rt></ruby>いたし<ruby><rb>翌</rb><rt place="righit">よく</rt></ruby><date>十九日</date>
-        <lb/><ruby><rb>暁天</rb><rt place="righit">あかつき</rt></ruby>に<placeName corresp="#相模国浦賀"><ruby><rb>浦賀</rb><rt place="righit">うらが</rt></ruby></placeName>を<ruby><rb>出帆</rb><rt place="righit">しゆつぱん</rt></ruby>し<placeName corresp="#奥州南部"><ruby><rb>奥州南部</rb><rt place="righit">をゝしうなんぶ</rt></ruby></placeName>へこゝろざし
-        <lb/>のり行しが<ruby><rb>東風</rb><rt place="righit">こちかぜ</rt></ruby><ruby><rb>吹出</rb><rt place="righit">ふきいだ</rt></ruby>しける<ruby><rb>故</rb><rt place="righit">ゆへ</rt></ruby><placeName corresp="#伊豆"><ruby><rb>豆州</rb><rt place="righit">ヅしう</rt></ruby></placeName>の方へ<ruby><rb>乗戻</rb><rt place="righit">のりもど</rt></ruby>し
-        <lb/><date>同廿三日</date><placeName corresp="#大網代のみなと"><ruby><rb>大網代</rb><rt place="righit">おゝあじろ</rt></ruby>のみなと</placeName>へ<ruby><rb>入船</rb><rt place="righit">にうせん</rt></ruby>し<date>十月四日</date>ニ同<ruby><rb>所</rb><rt place="righit">しよ</rt></ruby>        
-        <lb/>出船<placeName corresp="#房総"><ruby><rb>房総</rb><rt place="righit">ぼうそふ</rt></ruby></placeName>の><ruby><rb>沖</rb><rt place="righit">おき</rt></ruby>を乗通り<date>同く十二日</date>夕かた<placeName corresp="#犬坊"><ruby><rb>下総国</rb><rt place="righit">しもふさのくに</rt></ruby>
-    <lb/><ruby><rb>犬坊</rb><rt place="righit">いぬぼ</rt></ruby>が<ruby><rb>岬</rb><rt place="righit">はな</rt></ruby></placeName>の沖に<ruby><rb>至</rb><rt place="righit">いた</rt></ruby>り<ruby><rb>地</rb><rt place="righit">ぢ</rt></ruby>方をはなるゝ事五六里計り
-    <lb/>この所より<ruby><rb>奥</rb><rt place="righit">おく</rt></ruby>の海江乗かゝるべきが沖あゐ風よろし
-   <lb/>からず<ruby><rb>兎</rb><rt place="righit">と</rt></ruby>かくして<ruby><rb>洋</rb><rt place="righit">よう</rt></ruby>中にたゞよひ<ruby><rb>居</rb><rt place="righit">い</rt></ruby>たりしに
+        <lb/>以上十三人ニ而※<date>同月廿三日</date><placeName corresp="#兵庫"><ruby><rb>兵庫</rb><rt place="right">ひやうご</rt></ruby></placeName><ruby><rb>出帆</rb><rt place="right">しゆつぱん</rt></ruby>いたし<date>九月十八日</date><placeName corresp="#相模国浦賀"><ruby><rb>相</rb><rt place="right">さ</rt></ruby>
+    <lb/><ruby><rb>摸国浦賀</rb><rt place="right">がみのくにうらか</rt></ruby></placeName>のみなとへ着 <ruby><rb>公</rb><rt place="right">きみ</rt></ruby>の<ruby><rb>御改</rb><rt place="right">あらため</rt></ruby>を<ruby><rb>受</rb><rt place="right">うけ</rt></ruby>て <ruby><rb>舟問</rb><rt place="right">ふなどひ</rt></ruby>や
+    <lb/><ruby><rb>役塚惣</rb><rt place="right">やくつかそふ</rt></ruby>太郎方へ<ruby><rb>菉豆</rb><rt place="right">やへなり</rt></ruby>七十<ruby><rb>俵</rb><rt place="right">びよう</rt></ruby>水<ruby><rb>揚</rb><rt place="right">あげ</rt></ruby>いたし<ruby><rb>翌</rb><rt place="right">よく</rt></ruby><date>十九日</date>
+        <lb/><ruby><rb>暁天</rb><rt place="right">あかつき</rt></ruby>に<placeName corresp="#相模国浦賀"><ruby><rb>浦賀</rb><rt place="right">うらが</rt></ruby></placeName>を<ruby><rb>出帆</rb><rt place="right">しゆつぱん</rt></ruby>し<placeName corresp="#奥州南部"><ruby><rb>奥州南部</rb><rt place="right">をゝしうなんぶ</rt></ruby></placeName>へこゝろざし
+        <lb/>のり行しが<ruby><rb>東風</rb><rt place="right">こちかぜ</rt></ruby><ruby><rb>吹出</rb><rt place="right">ふきいだ</rt></ruby>しける<ruby><rb>故</rb><rt place="right">ゆへ</rt></ruby><placeName corresp="#伊豆"><ruby><rb>豆州</rb><rt place="right">ヅしう</rt></ruby></placeName>の方へ<ruby><rb>乗戻</rb><rt place="right">のりもど</rt></ruby>し
+        <lb/><date>同廿三日</date><placeName corresp="#大網代のみなと"><ruby><rb>大網代</rb><rt place="right">おゝあじろ</rt></ruby>のみなと</placeName>へ<ruby><rb>入船</rb><rt place="right">にうせん</rt></ruby>し<date>十月四日</date>ニ同<ruby><rb>所</rb><rt place="right">しよ</rt></ruby>        
+        <lb/>出船<placeName corresp="#房総"><ruby><rb>房総</rb><rt place="right">ぼうそふ</rt></ruby></placeName>の><ruby><rb>沖</rb><rt place="right">おき</rt></ruby>を乗通り<date>同く十二日</date>夕かた<placeName corresp="#犬坊"><ruby><rb>下総国</rb><rt place="right">しもふさのくに</rt></ruby>
+    <lb/><ruby><rb>犬坊</rb><rt place="right">いぬぼ</rt></ruby>が<ruby><rb>岬</rb><rt place="right">はな</rt></ruby></placeName>の沖に<ruby><rb>至</rb><rt place="right">いた</rt></ruby>り<ruby><rb>地</rb><rt place="right">ぢ</rt></ruby>方をはなるゝ事五六里計り
+    <lb/>この所より<ruby><rb>奥</rb><rt place="right">おく</rt></ruby>の海江乗かゝるべきが沖あゐ風よろし
+   <lb/>からず<ruby><rb>兎</rb><rt place="right">と</rt></ruby>かくして<ruby><rb>洋</rb><rt place="right">よう</rt></ruby>中にたゞよひ<ruby><rb>居</rb><rt place="right">い</rt></ruby>たりしに
 
     <pb n="9"/>
-    <lb/><ruby><rb>其夜</rb><rt place="righit">そのよ</rt></ruby><ruby><rb>亥</rb><rt place="righit">ゐ</rt></ruby>の<ruby><rb>刻</rb><rt place="righit">こく</rt></ruby>とおぼしき<ruby><rb>比</rb><rt place="righit">ころ</rt></ruby>より西北の風はげしく
-    <lb/><ruby><rb>吹</rb><rt place="righit">ふき</rt></ruby>来り<ruby><rb>逆浪</rb><rt place="righit">げきろう</rt><rt place="left">サカナミ</rt></ruby><ruby><rb>殊</rb><rt place="righit">こと</rt></ruby>さらさかんなる<ruby><rb>故</rb><rt place="righit">ゆへ</rt></ruby><ruby><rb>帆</rb><rt place="righit">ほ</rt></ruby>を下げて<ruby><rb>暫</rb><rt place="righit">しば</rt></ruby>しは
-    <lb/><ruby><rb>凌</rb><rt place="righit">しの</rt></ruby>ぎしかど<ruby><rb>子</rb><rt place="righit">ね</rt></ruby>のこく比には<ruby><rb>最</rb><rt place="righit">も</rt></ruby>はや<ruby><rb>叶</rb><rt place="righit">かな</rt></ruby>ひ<ruby><rb>難</rb><rt place="righit">がた</rt></ruby>く<ruby><rb>成</rb><rt place="righit">な</rt></ruby>りて
-    <lb/><ruby><rb>荷物</rb><rt place="righit">にもつ</rt></ruby>を<ruby><rb>少々</rb><rt place="righit">しよう〳〵</rt></ruby><ruby><rb>海中</rb><rt place="righit">かいてう</rt></ruby>へなげ<ruby><rb>捨</rb><rt place="righit">すて</rt></ruby><date><ruby><rb>翌</rb><rt place="righit">よく</rt></ruby>十三日</date>にいたりても
-    <lb/><ruby><rb>風波</rb><rt place="righit">ふうは</rt></ruby>なほ<ruby><rb>烈</rb><rt place="righit">はげ</rt></ruby>しき故又々荷物を捨て<date>十四日</date>の夜迄
+    <lb/><ruby><rb>其夜</rb><rt place="right">そのよ</rt></ruby><ruby><rb>亥</rb><rt place="right">ゐ</rt></ruby>の<ruby><rb>刻</rb><rt place="right">こく</rt></ruby>とおぼしき<ruby><rb>比</rb><rt place="right">ころ</rt></ruby>より西北の風はげしく
+    <lb/><ruby><rb>吹</rb><rt place="right">ふき</rt></ruby>来り<ruby><rb>逆浪</rb><rt place="right">げきろう</rt><rt place="left">サカナミ</rt></ruby><ruby><rb>殊</rb><rt place="right">こと</rt></ruby>さらさかんなる<ruby><rb>故</rb><rt place="right">ゆへ</rt></ruby><ruby><rb>帆</rb><rt place="right">ほ</rt></ruby>を下げて<ruby><rb>暫</rb><rt place="right">しば</rt></ruby>しは
+    <lb/><ruby><rb>凌</rb><rt place="right">しの</rt></ruby>ぎしかど<ruby><rb>子</rb><rt place="right">ね</rt></ruby>のこく比には<ruby><rb>最</rb><rt place="right">も</rt></ruby>はや<ruby><rb>叶</rb><rt place="right">かな</rt></ruby>ひ<ruby><rb>難</rb><rt place="right">がた</rt></ruby>く<ruby><rb>成</rb><rt place="right">な</rt></ruby>りて
+    <lb/><ruby><rb>荷物</rb><rt place="right">にもつ</rt></ruby>を<ruby><rb>少々</rb><rt place="right">しよう〳〵</rt></ruby><ruby><rb>海中</rb><rt place="right">かいてう</rt></ruby>へなげ<ruby><rb>捨</rb><rt place="right">すて</rt></ruby><date><ruby><rb>翌</rb><rt place="right">よく</rt></ruby>十三日</date>にいたりても
+    <lb/><ruby><rb>風波</rb><rt place="right">ふうは</rt></ruby>なほ<ruby><rb>烈</rb><rt place="right">はげ</rt></ruby>しき故又々荷物を捨て<date>十四日</date>の夜迄
     <lb/>はたらさ けれ共兎角凌ぎがたく覚 ければおの〳〵
-    <lb/><ruby><rb>談合</rb><rt place="righit">だんこう</rt></ruby>してさま〳〵凌き方のことを<ruby><rb>書</rb><rt place="righit">かい</rt></ruby>て<ruby><rb>神鬮</rb><rt place="righit">かみくじ</rt></ruby>と
-    <lb/>なし一同に<ruby><rb>祈念</rb><rt place="righit">きねん</rt></ruby>して是を取しに帆ばしらを
-    <lb/><ruby><rb>切</rb><rt place="righit">き</rt></ruby>るべき神鬮を取あたり心得たる者<ruby><rb>則</rb><rt place="righit">すなは</rt></ruby>ち<ruby><rb>斧</rb><rt place="righit">おの</rt></ruby>を
-    <lb/>以てやぐらの上江<ruby><rb>登</rb><rt place="righit">のぼ</rt></ruby>り是を切る<ruby><rb>十</rb><rt place="righit">と</rt></ruby>ふにして二<ruby><rb>分</rb><rt place="righit">ぶ</rt></ruby>
+    <lb/><ruby><rb>談合</rb><rt place="right">だんこう</rt></ruby>してさま〳〵凌き方のことを<ruby><rb>書</rb><rt place="right">かい</rt></ruby>て<ruby><rb>神鬮</rb><rt place="right">かみくじ</rt></ruby>と
+    <lb/>なし一同に<ruby><rb>祈念</rb><rt place="right">きねん</rt></ruby>して是を取しに帆ばしらを
+    <lb/><ruby><rb>切</rb><rt place="right">き</rt></ruby>るべき神鬮を取あたり心得たる者<ruby><rb>則</rb><rt place="right">すなは</rt></ruby>ち<ruby><rb>斧</rb><rt place="right">おの</rt></ruby>を
+    <lb/>以てやぐらの上江<ruby><rb>登</rb><rt place="right">のぼ</rt></ruby>り是を切る<ruby><rb>十</rb><rt place="right">と</rt></ruby>ふにして二<ruby><rb>分</rb><rt place="right">ぶ</rt></ruby>
 
-    <lb/><ruby><rb>計</rb><rt place="righit">ばかり</rt></ruby>りも切込みけるに風波の<ruby><rb>為</rb><rt place="righit">ため</rt></ruby>に<ruby><rb>動</rb><rt place="righit">どふ</rt></ruby>よふするにより<ruby><rb>帆柱</rb><rt place="righit">ほばしら</rt></ruby>
-    <lb/>たちまち折れて海ニ入りぬ夫より<ruby><rb>舳</rb><rt place="righit">とも</rt></ruby>の方などへ
-    <lb/><ruby><rb>碇</rb><rt place="righit">いかり</rt></ruby>を二<ruby><rb>挺</rb><rt place="righit">てう</rt></ruby>下げ<ruby><rb>太</rb><rt place="righit">ふ</rt></ruby>ト<ruby><rb>き苧綱</rb><rt place="righit">おつな</rt></ruby>四すじを付けて引しめ
-    <lb/>舟の遠く流るゝを<ruby><rb>防</rb><rt place="righit">ふて</rt></ruby>ぎ<ruby><rb>飯料</rb><rt place="righit">いゝりよふ</rt></ruby>を<ruby><rb>算</rb><rt place="righit">かぞ</rt></ruby>ふるにや ほく
-    <lb/>米三<ruby><rb>俵</rb><rt place="righit">びよう</rt></ruby>ばかり<ruby><rb>残</rb><rt place="righit">のこ</rt></ruby>りたれば其夜より十三人の<ruby><rb>食料</rb><rt place="righit">しよくりよう</rt></ruby>に
-    <lb/><ruby><rb>米</rb><rt place="righit">こめ</rt></ruby>一升を<ruby><rb>粥</rb><rt place="righit">かゆ</rt></ruby>として<ruby><rb>食</rb><rt place="righit">しよく</rt></ruby>し<ruby><rb>只</rb><rt place="righit">たゞ</rt></ruby><ruby><rb>神</rb><rt place="righit">かみ</rt></ruby>の助けをいのるより
-    <lb/><ruby><rb>外</rb><rt place="righit">ほか</rt></ruby><ruby><rb>詮</rb><rt place="righit">せん</rt></ruby>すべき様なし<date>十九日</date>朝<ruby><rb>巳</rb><rt place="righit">み</rt></ruby>の刻ばかりに<ruby><rb>至</rb><rt place="righit">いた</rt></ruby>り
-    <lb/>風<ruby><rb>凪</rb><rt place="righit">なぎ</rt></ruby>たり<ruby><rb>各</rb><rt place="righit">おの〳〵</rt></ruby>少し力を得たりしに<ruby><rb>午刻</rb><rt place="righit">うまのこく</rt></ruby> よりまた
-    <lb/><ruby><rb>辰巳</rb><rt place="righit">たつみ</rt></ruby>の風にかわり其夜<ruby><rb>亥</rb><rt place="righit">い</rt></ruby>の刻に至り<ruby><rb>益烈</rb><rt place="righit">ます〳〵はげ</rt></ruby>しく
-    <lb/><ruby><rb>吹</rb><rt place="righit">ふき</rt></ruby><ruby><rb>雨</rb><rt place="righit">あめ</rt></ruby>も大に<ruby><rb>降</rb><rt place="righit">ふり</rt></ruby>来り<date><ruby><rb>翌</rb><rt place="righit">よく</rt></ruby>廿日</date>の<ruby><rb>暁卯</rb><rt place="righit">あかつきう</rt></ruby>刻より又西北風に
+    <lb/><ruby><rb>計</rb><rt place="right">ばかり</rt></ruby>りも切込みけるに風波の<ruby><rb>為</rb><rt place="right">ため</rt></ruby>に<ruby><rb>動</rb><rt place="right">どふ</rt></ruby>よふするにより<ruby><rb>帆柱</rb><rt place="right">ほばしら</rt></ruby>
+    <lb/>たちまち折れて海ニ入りぬ夫より<ruby><rb>舳</rb><rt place="right">とも</rt></ruby>の方などへ
+    <lb/><ruby><rb>碇</rb><rt place="right">いかり</rt></ruby>を二<ruby><rb>挺</rb><rt place="right">てう</rt></ruby>下げ<ruby><rb>太</rb><rt place="right">ふ</rt></ruby>ト<ruby><rb>き苧綱</rb><rt place="right">おつな</rt></ruby>四すじを付けて引しめ
+    <lb/>舟の遠く流るゝを<ruby><rb>防</rb><rt place="right">ふて</rt></ruby>ぎ<ruby><rb>飯料</rb><rt place="right">いゝりよふ</rt></ruby>を<ruby><rb>算</rb><rt place="right">かぞ</rt></ruby>ふるにや ほく
+    <lb/>米三<ruby><rb>俵</rb><rt place="right">びよう</rt></ruby>ばかり<ruby><rb>残</rb><rt place="right">のこ</rt></ruby>りたれば其夜より十三人の<ruby><rb>食料</rb><rt place="right">しよくりよう</rt></ruby>に
+    <lb/><ruby><rb>米</rb><rt place="right">こめ</rt></ruby>一升を<ruby><rb>粥</rb><rt place="right">かゆ</rt></ruby>として<ruby><rb>食</rb><rt place="right">しよく</rt></ruby>し<ruby><rb>只</rb><rt place="right">たゞ</rt></ruby><ruby><rb>神</rb><rt place="right">かみ</rt></ruby>の助けをいのるより
+    <lb/><ruby><rb>外</rb><rt place="right">ほか</rt></ruby><ruby><rb>詮</rb><rt place="right">せん</rt></ruby>すべき様なし<date>十九日</date>朝<ruby><rb>巳</rb><rt place="right">み</rt></ruby>の刻ばかりに<ruby><rb>至</rb><rt place="right">いた</rt></ruby>り
+    <lb/>風<ruby><rb>凪</rb><rt place="right">なぎ</rt></ruby>たり<ruby><rb>各</rb><rt place="right">おの〳〵</rt></ruby>少し力を得たりしに<ruby><rb>午刻</rb><rt place="right">うまのこく</rt></ruby> よりまた
+    <lb/><ruby><rb>辰巳</rb><rt place="right">たつみ</rt></ruby>の風にかわり其夜<ruby><rb>亥</rb><rt place="right">い</rt></ruby>の刻に至り<ruby><rb>益烈</rb><rt place="right">ます〳〵はげ</rt></ruby>しく
+    <lb/><ruby><rb>吹</rb><rt place="right">ふき</rt></ruby><ruby><rb>雨</rb><rt place="right">あめ</rt></ruby>も大に<ruby><rb>降</rb><rt place="right">ふり</rt></ruby>来り<date><ruby><rb>翌</rb><rt place="right">よく</rt></ruby>廿日</date>の<ruby><rb>暁卯</rb><rt place="right">あかつきう</rt></ruby>刻より又西北風に
 
     <pb n="10"/>
-    <lb/><ruby><rb>変</rb><rt place="righit">へん</rt></ruby>じて殊につよく成り卯辰の方へたゞよひ<ruby><rb>流</rb><rt place="righit">なが</rt></ruby>る
-        <lb/><ruby><rb>尤</rb><rt place="righit">もつ</rt></ruby>も<ruby><rb>始</rb><rt place="righit">はじめ</rt></ruby>て<ruby><rb>吹払</rb><rt place="righit">ふきはら</rt></ruby>はれし時より<ruby><rb>既</rb><rt place="righit">すで</rt></ruby>に地の山を見る<ruby><rb>㕝</rb><rt place="righit">こと</rt></ruby>
-    <lb/>なく其<ruby><rb>心痛</rb><rt place="righit">しんつう</rt></ruby>譬ふるに物なし<date>十一月七八日</date>比迄同じ
-        <lb/>風<ruby><rb>荒</rb><rt place="righit">あら</rt></ruby>く<ruby><rb>吹詰</rb><rt place="righit">ふきつめ</rt></ruby>たり此時に<ruby><rb>至</rb><rt place="righit">いた</rt></ruby>りては<ruby><rb>終</rb><rt place="righit">つい</rt></ruby>に<ruby><rb>飯料</rb><rt place="righit">いゝりよふ</rt></ruby>も尽き
-    <lb/><ruby><rb>果</rb><rt place="righit">はて</rt></ruby>たり<date>同十日</date>比には船の<ruby><rb>歩艫</rb><rt place="righit">ホリヨ</rt></ruby><ruby><rb>破砕</rb><rt place="righit">はさい</rt><rt place="left">ヤブレクダケル</rt></ruby>して戸立<ruby><rb>動</rb><rt place="righit">うご</rt></ruby>き
-    <lb/><ruby><rb>海水</rb><rt place="righit">かいすい</rt></ruby>船中ニ<ruby><rb>漏</rb><rt place="righit">もり</rt></ruby>入ル様になりぬ<date>十六日</date><ruby><rb>比</rb><rt place="righit">ごろ</rt></ruby>には<ruby><rb>舳</rb><rt place="righit">とも</rt></ruby>の方
-    <lb/><ruby><rb>破</rb><rt place="righit">やぶ</rt></ruby>れしかば<ruby><rb>端舟</rb><rt place="righit">はせん</rt></ruby>を<ruby><rb>解放</rb><rt place="righit">ときはな</rt></ruby>して<ruby><rb>是</rb><rt place="righit">これ</rt></ruby>を<ruby><rb>捨</rb><rt place="righit">すみ</rt></ruby>て七<ruby><rb>挺</rb><rt place="righit">てう</rt></ruby>有し
-    <lb/><ruby><rb>碇</rb><rt place="righit">いかり</rt></ruby>も<ruby><rb>追</rb><rt place="righit">おい</rt></ruby>々に切て二<ruby><rb>挺</rb><rt place="righit">てう</rt></ruby><ruby><rb>残</rb><rt place="righit">のこ</rt></ruby>り六筋有<ruby><rb>苧綱</rb><rt place="righit">をづな</rt></ruby>も一筋に
-    <lb/>なり三筋有しつぐ綱は二<ruby><rb>筋</rb><rt place="righit">すじ</rt></ruby><ruby><rb>残</rb><rt place="righit">のこ</rt></ruby>れり又<ruby><rb>飯料</rb><rt place="righit">いゝりよふ</rt></ruby>も
-    <lb/><ruby><rb>食</rb><rt place="righit">く</rt></ruby>ひ<ruby><rb>尽</rb><rt place="righit">つく</rt></ruby>してより<ruby><rb>後</rb><rt place="righit">のち</rt></ruby>は<ruby><rb>積込</rb><rt place="righit">つみこみ</rt></ruby>たる<ruby><rb>酒</rb><rt place="righit">さけ</rt></ruby><ruby><rb>砂</rb><rt place="righit">さ</rt></ruby>とふなどを
+    <lb/><ruby><rb>変</rb><rt place="right">へん</rt></ruby>じて殊につよく成り卯辰の方へたゞよひ<ruby><rb>流</rb><rt place="right">なが</rt></ruby>る
+        <lb/><ruby><rb>尤</rb><rt place="right">もつ</rt></ruby>も<ruby><rb>始</rb><rt place="right">はじめ</rt></ruby>て<ruby><rb>吹払</rb><rt place="right">ふきはら</rt></ruby>はれし時より<ruby><rb>既</rb><rt place="right">すで</rt></ruby>に地の山を見る<ruby><rb>㕝</rb><rt place="right">こと</rt></ruby>
+    <lb/>なく其<ruby><rb>心痛</rb><rt place="right">しんつう</rt></ruby>譬ふるに物なし<date>十一月七八日</date>比迄同じ
+        <lb/>風<ruby><rb>荒</rb><rt place="right">あら</rt></ruby>く<ruby><rb>吹詰</rb><rt place="right">ふきつめ</rt></ruby>たり此時に<ruby><rb>至</rb><rt place="right">いた</rt></ruby>りては<ruby><rb>終</rb><rt place="right">つい</rt></ruby>に<ruby><rb>飯料</rb><rt place="right">いゝりよふ</rt></ruby>も尽き
+    <lb/><ruby><rb>果</rb><rt place="right">はて</rt></ruby>たり<date>同十日</date>比には船の<ruby><rb>歩艫</rb><rt place="right">ホリヨ</rt></ruby><ruby><rb>破砕</rb><rt place="right">はさい</rt><rt place="left">ヤブレクダケル</rt></ruby>して戸立<ruby><rb>動</rb><rt place="right">うご</rt></ruby>き
+    <lb/><ruby><rb>海水</rb><rt place="right">かいすい</rt></ruby>船中ニ<ruby><rb>漏</rb><rt place="right">もり</rt></ruby>入ル様になりぬ<date>十六日</date><ruby><rb>比</rb><rt place="right">ごろ</rt></ruby>には<ruby><rb>舳</rb><rt place="right">とも</rt></ruby>の方
+    <lb/><ruby><rb>破</rb><rt place="right">やぶ</rt></ruby>れしかば<ruby><rb>端舟</rb><rt place="right">はせん</rt></ruby>を<ruby><rb>解放</rb><rt place="right">ときはな</rt></ruby>して<ruby><rb>是</rb><rt place="right">これ</rt></ruby>を<ruby><rb>捨</rb><rt place="right">すみ</rt></ruby>て七<ruby><rb>挺</rb><rt place="right">てう</rt></ruby>有し
+    <lb/><ruby><rb>碇</rb><rt place="right">いかり</rt></ruby>も<ruby><rb>追</rb><rt place="right">おい</rt></ruby>々に切て二<ruby><rb>挺</rb><rt place="right">てう</rt></ruby><ruby><rb>残</rb><rt place="right">のこ</rt></ruby>り六筋有<ruby><rb>苧綱</rb><rt place="right">をづな</rt></ruby>も一筋に
+    <lb/>なり三筋有しつぐ綱は二<ruby><rb>筋</rb><rt place="right">すじ</rt></ruby><ruby><rb>残</rb><rt place="right">のこ</rt></ruby>れり又<ruby><rb>飯料</rb><rt place="right">いゝりよふ</rt></ruby>も
+    <lb/><ruby><rb>食</rb><rt place="right">く</rt></ruby>ひ<ruby><rb>尽</rb><rt place="right">つく</rt></ruby>してより<ruby><rb>後</rb><rt place="right">のち</rt></ruby>は<ruby><rb>積込</rb><rt place="right">つみこみ</rt></ruby>たる<ruby><rb>酒</rb><rt place="right">さけ</rt></ruby><ruby><rb>砂</rb><rt place="right">さ</rt></ruby>とふなどを
 
-    <lb/>少しづゝ<ruby><rb>食</rb><rt place="righit">しよく</rt></ruby>し雨すくなき節なれは<ruby><rb>呑</rb><rt place="righit">のみ</rt></ruby>水も<ruby><rb>乏</rb><rt place="righit">とぼ</rt></ruby>しき
-    <lb/><ruby><rb>故</rb><rt place="righit">ゆへ</rt></ruby><ruby><rb>成丈</rb><rt place="righit">なるた</rt></ruby>ケは<ruby><rb>塩</rb><rt place="righit">しを</rt></ruby>を食せずゆへに<ruby><rb>気力</rb><rt place="righit">きりよく</rt></ruby>次第におとろへ
-    <lb/>十ぶんに<ruby><rb>働</rb><rt place="righit">はたらき</rt></ruby>得す<ruby><rb>一向</rb><rt place="righit">ひたすら</rt></ruby><ruby><rb>神仏</rb><rt place="righit">しんぶつ</rt></ruby>を<ruby><rb>祈</rb><rt place="righit">ゐの</rt></ruby>るの外なし方
-    <lb/><ruby><rb>位</rb><rt place="righit">い</rt></ruby>を<ruby><rb>考</rb><rt place="righit">かんか</rt></ruby>へ計るに<ruby><rb>卯辰</rb><rt place="righit">うたつ</rt></ruby>の方へ九分巳午の方へは一分
-    <lb/>ばかり流るゝ様に<ruby><rb>覚</rb><rt place="righit">おぼ</rt></ruby>ゆ冬の間は<ruby><rb>始終</rb><rt place="righit">しじう</rt></ruby>西北の<ruby><rb>風烈</rb><rt place="righit">はげ</rt></ruby>し
-    <lb/>かりしか<ruby><rb>既</rb><rt place="righit">すで</rt></ruby>に其年も暮て<date><ruby><rb>翌壬寅</rb><rt place="righit">よくみづのへとら</rt></ruby>の春</date>となりぬ
-    <lb/>たま〳〵風のなき日もあれ共<ruby><rb>茫</rb><rt place="righit">ぼふ</rt></ruby>々たる<ruby><rb>大洋</rb><rt place="righit">たいよふ</rt></ruby>の内
-    <lb/>雲と<ruby><rb>浪</rb><rt place="righit">なみ</rt></ruby>とを見るより外は<ruby><rb>嶋</rb><rt place="righit">しま</rt></ruby>に似たるものさへなく※ 
-    <lb/>心<ruby><rb>細</rb><rt place="righit">ほそ</rt></ruby>き事いふばかりなし海の<ruby><rb>静</rb><rt place="righit">しづか</rt></ruby>なる時は常に
-    <lb/><ruby><rb>帆</rb><rt place="righit">ほ</rt></ruby>を<ruby><rb>縫</rb><rt place="righit">ぬ</rt></ruby>ふ針を<ruby><rb>曲</rb><rt place="righit">ま</rt></ruby>け<ruby><rb>鹿</rb><rt place="righit">しか</rt></ruby>の<ruby><rb>角</rb><rt place="righit">つの</rt></ruby>或ひは松の木の<ruby><rb>節</rb><rt place="righit">ふし</rt></ruby>など
+    <lb/>少しづゝ<ruby><rb>食</rb><rt place="right">しよく</rt></ruby>し雨すくなき節なれは<ruby><rb>呑</rb><rt place="right">のみ</rt></ruby>水も<ruby><rb>乏</rb><rt place="right">とぼ</rt></ruby>しき
+    <lb/><ruby><rb>故</rb><rt place="right">ゆへ</rt></ruby><ruby><rb>成丈</rb><rt place="right">なるた</rt></ruby>ケは<ruby><rb>塩</rb><rt place="right">しを</rt></ruby>を食せずゆへに<ruby><rb>気力</rb><rt place="right">きりよく</rt></ruby>次第におとろへ
+    <lb/>十ぶんに<ruby><rb>働</rb><rt place="right">はたらき</rt></ruby>得す<ruby><rb>一向</rb><rt place="right">ひたすら</rt></ruby><ruby><rb>神仏</rb><rt place="right">しんぶつ</rt></ruby>を<ruby><rb>祈</rb><rt place="right">ゐの</rt></ruby>るの外なし方
+    <lb/><ruby><rb>位</rb><rt place="right">い</rt></ruby>を<ruby><rb>考</rb><rt place="right">かんか</rt></ruby>へ計るに<ruby><rb>卯辰</rb><rt place="right">うたつ</rt></ruby>の方へ九分巳午の方へは一分
+    <lb/>ばかり流るゝ様に<ruby><rb>覚</rb><rt place="right">おぼ</rt></ruby>ゆ冬の間は<ruby><rb>始終</rb><rt place="right">しじう</rt></ruby>西北の<ruby><rb>風烈</rb><rt place="right">はげ</rt></ruby>し
+    <lb/>かりしか<ruby><rb>既</rb><rt place="right">すで</rt></ruby>に其年も暮て<date><ruby><rb>翌壬寅</rb><rt place="right">よくみづのへとら</rt></ruby>の春</date>となりぬ
+    <lb/>たま〳〵風のなき日もあれ共<ruby><rb>茫</rb><rt place="right">ぼふ</rt></ruby>々たる<ruby><rb>大洋</rb><rt place="right">たいよふ</rt></ruby>の内
+    <lb/>雲と<ruby><rb>浪</rb><rt place="right">なみ</rt></ruby>とを見るより外は<ruby><rb>嶋</rb><rt place="right">しま</rt></ruby>に似たるものさへなく※ 
+    <lb/>心<ruby><rb>細</rb><rt place="right">ほそ</rt></ruby>き事いふばかりなし海の<ruby><rb>静</rb><rt place="right">しづか</rt></ruby>なる時は常に
+    <lb/><ruby><rb>帆</rb><rt place="right">ほ</rt></ruby>を<ruby><rb>縫</rb><rt place="right">ぬ</rt></ruby>ふ針を<ruby><rb>曲</rb><rt place="right">ま</rt></ruby>け<ruby><rb>鹿</rb><rt place="right">しか</rt></ruby>の<ruby><rb>角</rb><rt place="right">つの</rt></ruby>或ひは松の木の<ruby><rb>節</rb><rt place="right">ふし</rt></ruby>など
 
     <pb n="11"/>
-    <lb/>にて<ruby><rb>餌</rb><rt place="righit">ゑば</rt></ruby>に<ruby><rb>似</rb><rt place="righit">に</rt></ruby>たる<ruby><rb>形</rb><rt place="righit">かたち</rt></ruby>を<ruby><rb>作</rb><rt place="righit">つく</rt></ruby>り<ruby><rb>鰤</rb><rt place="righit">ぶり</rt></ruby><ruby><rb>九万疋</rb><rt place="righit">くまびき</rt></ruby>の<ruby><rb>類</rb><rt place="righit">たぐ</rt></ruby>ひを釣て
-    <lb/>是を食すうしほの色は<ruby><rb>或</rb><rt place="righit">あるひ</rt></ruby>は黒く或は青く成のみ
-    <lb/>にて外に替りし事もなく鳥は<ruby><rb>只</rb><rt place="righit">たゞ</rt></ruby><ruby><rb>信天翁</rb><rt place="righit">あほふどり</rt><rt place="left">シンテンオウ</rt></ruby>を見る
-        <lb/>のみなり<ruby><rb>各</rb><rt place="righit">おの〳〵</rt></ruby>心に思ふ様は<placeName corresp="#日本">日本</placeName>の内ニ而も東の<ruby><rb>端</rb><rt place="righit">はし</rt></ruby>にて
-    <lb/><ruby><rb>吹払</rb><rt place="righit">ふきはら</rt></ruby>はれ夫より卯辰の方へ<ruby><rb>専</rb><rt place="righit">もつば</rt></ruby>らに流れし事
-        <lb/>なれば<ruby><rb>所詮</rb><rt place="righit">しよせん</rt></ruby><placeName corresp="#日本">日本</placeName>に近き事は思ひもよらず<ruby><rb>去</rb><rt place="righit">され</rt></ruby>ども
-    <lb/><date>三月の節</date>に至り<ruby><rb>海</rb><rt place="righit">うみ</rt></ruby><ruby><rb>静</rb><rt place="righit">しづ</rt></ruby>かにならば<ruby><rb>鰹</rb><rt place="righit">かつを</rt></ruby>を多くつり
-    <lb/><ruby><rb>貯</rb><rt place="righit">たくは</rt></ruby>へて<ruby><rb>食料</rb><rt place="righit">しよくりよふ</rt></ruby>とし東南の風を得※て<ruby><rb>兎</rb><rt place="righit">と</rt></ruby>もかくも
-    <lb/>して<ruby><rb>帆</rb><rt place="righit">ほ</rt></ruby>を<ruby><rb>作</rb><rt place="righit">つく</rt></ruby>り西北の方へ<ruby><rb>走</rb><rt place="righit">はし</rt></ruby>るならは<ruby><rb>運</rb><rt place="righit">うん</rt></ruby>にかなひ
-        <lb/><placeName corresp="#日本">日本</placeName>の地江<ruby><rb>近</rb><rt place="righit">ちかづ</rt></ruby>く事もあらんか<ruby><rb>神明</rb><rt place="righit">しんめい</rt></ruby>の加護にや
+    <lb/>にて<ruby><rb>餌</rb><rt place="right">ゑば</rt></ruby>に<ruby><rb>似</rb><rt place="right">に</rt></ruby>たる<ruby><rb>形</rb><rt place="right">かたち</rt></ruby>を<ruby><rb>作</rb><rt place="right">つく</rt></ruby>り<ruby><rb>鰤</rb><rt place="right">ぶり</rt></ruby><ruby><rb>九万疋</rb><rt place="right">くまびき</rt></ruby>の<ruby><rb>類</rb><rt place="right">たぐ</rt></ruby>ひを釣て
+    <lb/>是を食すうしほの色は<ruby><rb>或</rb><rt place="right">あるひ</rt></ruby>は黒く或は青く成のみ
+    <lb/>にて外に替りし事もなく鳥は<ruby><rb>只</rb><rt place="right">たゞ</rt></ruby><ruby><rb>信天翁</rb><rt place="right">あほふどり</rt><rt place="left">シンテンオウ</rt></ruby>を見る
+        <lb/>のみなり<ruby><rb>各</rb><rt place="right">おの〳〵</rt></ruby>心に思ふ様は<placeName corresp="#日本">日本</placeName>の内ニ而も東の<ruby><rb>端</rb><rt place="right">はし</rt></ruby>にて
+    <lb/><ruby><rb>吹払</rb><rt place="right">ふきはら</rt></ruby>はれ夫より卯辰の方へ<ruby><rb>専</rb><rt place="right">もつば</rt></ruby>らに流れし事
+        <lb/>なれば<ruby><rb>所詮</rb><rt place="right">しよせん</rt></ruby><placeName corresp="#日本">日本</placeName>に近き事は思ひもよらず<ruby><rb>去</rb><rt place="right">され</rt></ruby>ども
+    <lb/><date>三月の節</date>に至り<ruby><rb>海</rb><rt place="right">うみ</rt></ruby><ruby><rb>静</rb><rt place="right">しづ</rt></ruby>かにならば<ruby><rb>鰹</rb><rt place="right">かつを</rt></ruby>を多くつり
+    <lb/><ruby><rb>貯</rb><rt place="right">たくは</rt></ruby>へて<ruby><rb>食料</rb><rt place="right">しよくりよふ</rt></ruby>とし東南の風を得※て<ruby><rb>兎</rb><rt place="right">と</rt></ruby>もかくも
+    <lb/>して<ruby><rb>帆</rb><rt place="right">ほ</rt></ruby>を<ruby><rb>作</rb><rt place="right">つく</rt></ruby>り西北の方へ<ruby><rb>走</rb><rt place="right">はし</rt></ruby>るならは<ruby><rb>運</rb><rt place="right">うん</rt></ruby>にかなひ
+        <lb/><placeName corresp="#日本">日本</placeName>の地江<ruby><rb>近</rb><rt place="right">ちかづ</rt></ruby>く事もあらんか<ruby><rb>神明</rb><rt place="right">しんめい</rt></ruby>の加護にや
 
-        <lb/>此<ruby><rb>程</rb><rt place="righit">ほど</rt></ruby>のなん<ruby><rb>苦</rb><rt place="righit">く</rt></ruby>に<ruby><rb>逢</rb><rt place="righit">あ</rt></ruby>ひしかど一人も<ruby><rb>病気</rb><rt place="righit">びよふき</rt></ruby><ruby><rb>死亡</rb><rt place="righit">しぼう</rt></ruby>の
-        <lb/>者なくかく折々雨ふりて<ruby><rb>渇</rb><rt place="righit">かつ</rt></ruby>を<ruby><rb>助</rb><rt place="righit">たす</rt></ruby>け大<ruby><rb>魚</rb><rt place="righit">ぎよ</rt></ruby>をも
-        <lb/>時々は得て是を食し又船の<ruby><rb>包板</rb><rt place="righit">つゝみいた</rt></ruby>にせいといふ<ruby><rb>貝</rb><rt place="righit">かい</rt></ruby>の
-        <lb/>多くつきたるを取などし<ruby><rb>て飢</rb><rt place="righit">うへ</rt></ruby>を助かり命を<ruby><rb>繋</rb><rt place="righit">つなぐ</rt></ruby> も
-        <lb/><ruby><rb>偏</rb><rt place="righit">ひとへ</rt></ruby>ニ<ruby><rb>帰</rb><rt place="righit">かへ</rt></ruby>るべきしるしにやあらむと<ruby><rb>互</rb><rt place="righit">たが</rt></ruby>ひに心を<ruby><rb>励</rb><rt place="righit">はげま</rt></ruby>し
-        <lb/><ruby><rb>居</rb><rt place="righit">い</rt></ruby>たりける<ruby><rb>凡</rb><rt place="righit">およそ</rt></ruby><ruby><rb>海</rb><rt place="righit">かい</rt></ruby>上にたゞよひ<ruby><rb>流</rb><rt place="righit">なが</rt></ruby>るゝ事百廿日<ruby><rb>余</rb><rt place="righit">あま</rt></ruby>り
-        <lb/><ruby><rb>里数</rb><rt place="righit">りすふ</rt></ruby>は<ruby><rb>幾</rb><rt place="righit">いく</rt></ruby>千里と云事を知らず<ruby><rb>斯</rb><rt place="righit">かく</rt></ruby>て<date>二月中<ruby><rb>旬</rb><rt place="righit">じゆん</rt></ruby></date>に
-        <lb/>至り<ruby><rb>至極</rb><rt place="righit">しごく</rt></ruby><ruby><rb>暖和</rb><rt place="righit">だんわ</rt></ruby>の日になりて<ruby><rb>或</rb><rt place="righit">ある</rt></ruby>時<ruby><rb>櫓</rb><rt place="righit">やぐら</rt></ruby>の上に<ruby><rb>登</rb><rt place="righit">のぼ</rt></ruby>りて
-        <lb/>四方を<ruby><rb>眺</rb><rt place="righit">なが</rt></ruby>め居たるに<ruby><rb>計</rb><rt place="righit">はか</rt></ruby>らずも西の方に当りて
-        <lb/><ruby><rb>遙</rb><rt place="righit">はるか</rt></ruby>に一<ruby><rb>艘</rb><rt place="righit">そふ</rt></ruby>の船を見<ruby><rb>懸</rb><rt place="righit">か</rt></ruby>ケたりかゝる<ruby><rb>洋</rb><rt place="righit">よふ</rt></ruby>中にて見ゆる
+        <lb/>此<ruby><rb>程</rb><rt place="right">ほど</rt></ruby>のなん<ruby><rb>苦</rb><rt place="right">く</rt></ruby>に<ruby><rb>逢</rb><rt place="right">あ</rt></ruby>ひしかど一人も<ruby><rb>病気</rb><rt place="right">びよふき</rt></ruby><ruby><rb>死亡</rb><rt place="right">しぼう</rt></ruby>の
+        <lb/>者なくかく折々雨ふりて<ruby><rb>渇</rb><rt place="right">かつ</rt></ruby>を<ruby><rb>助</rb><rt place="right">たす</rt></ruby>け大<ruby><rb>魚</rb><rt place="right">ぎよ</rt></ruby>をも
+        <lb/>時々は得て是を食し又船の<ruby><rb>包板</rb><rt place="right">つゝみいた</rt></ruby>にせいといふ<ruby><rb>貝</rb><rt place="right">かい</rt></ruby>の
+        <lb/>多くつきたるを取などし<ruby><rb>て飢</rb><rt place="right">うへ</rt></ruby>を助かり命を<ruby><rb>繋</rb><rt place="right">つなぐ</rt></ruby> も
+        <lb/><ruby><rb>偏</rb><rt place="right">ひとへ</rt></ruby>ニ<ruby><rb>帰</rb><rt place="right">かへ</rt></ruby>るべきしるしにやあらむと<ruby><rb>互</rb><rt place="right">たが</rt></ruby>ひに心を<ruby><rb>励</rb><rt place="right">はげま</rt></ruby>し
+        <lb/><ruby><rb>居</rb><rt place="right">い</rt></ruby>たりける<ruby><rb>凡</rb><rt place="right">およそ</rt></ruby><ruby><rb>海</rb><rt place="right">かい</rt></ruby>上にたゞよひ<ruby><rb>流</rb><rt place="right">なが</rt></ruby>るゝ事百廿日<ruby><rb>余</rb><rt place="right">あま</rt></ruby>り
+        <lb/><ruby><rb>里数</rb><rt place="right">りすふ</rt></ruby>は<ruby><rb>幾</rb><rt place="right">いく</rt></ruby>千里と云事を知らず<ruby><rb>斯</rb><rt place="right">かく</rt></ruby>て<date>二月中<ruby><rb>旬</rb><rt place="right">じゆん</rt></ruby></date>に
+        <lb/>至り<ruby><rb>至極</rb><rt place="right">しごく</rt></ruby><ruby><rb>暖和</rb><rt place="right">だんわ</rt></ruby>の日になりて<ruby><rb>或</rb><rt place="right">ある</rt></ruby>時<ruby><rb>櫓</rb><rt place="right">やぐら</rt></ruby>の上に<ruby><rb>登</rb><rt place="right">のぼ</rt></ruby>りて
+        <lb/>四方を<ruby><rb>眺</rb><rt place="right">なが</rt></ruby>め居たるに<ruby><rb>計</rb><rt place="right">はか</rt></ruby>らずも西の方に当りて
+        <lb/><ruby><rb>遙</rb><rt place="right">はるか</rt></ruby>に一<ruby><rb>艘</rb><rt place="right">そふ</rt></ruby>の船を見<ruby><rb>懸</rb><rt place="right">か</rt></ruby>ケたりかゝる<ruby><rb>洋</rb><rt place="right">よふ</rt></ruby>中にて見ゆる
 
     <pb n="12"/>
     <lb/>伊西把泥亜舟に
     <lb/>助けらるゝ図
 
     <pb n="13"/>
-        <lb/>船は<ruby><rb>外国</rb><rt place="righit">ぐわひこく</rt></ruby>の船成にや又は<placeName corresp="#薩摩"><ruby><rb>薩摩</rb><rt place="righit">さつま</rt></ruby></placeName>より<placeName corresp="#琉球"><ruby><rb>琉球</rb><rt place="righit">りうきう</rt></ruby></placeName>に<ruby><rb>通</rb><rt place="righit">かよ</rt></ruby>ふ船成
-        <lb/>にやなど<ruby><rb>評</rb><rt place="righit">ひよふ</rt></ruby>し居る内次第に<ruby><rb>近</rb><rt place="righit">ちか</rt></ruby>づき<ruby><rb>帆数</rb><rt place="righit">ほかず</rt></ruby>の<ruby><rb>多</rb><rt place="righit">おゝ</rt></ruby>き
-        <lb/>を見て扨こそ<ruby><rb>黒</rb><rt place="righit">くろ</rt></ruby>船なれと思ひ一同に<ruby><rb>怖畏</rb><rt place="righit">ふい</rt><rt place="left">ヲソレヲソル</rt></ruby>して
-        <lb/>船中に<ruby><rb>聚</rb><rt place="righit">あつま</rt></ruby>り居たりし内其船<ruby><rb>漸</rb><rt place="righit">よう</rt></ruby>々と<ruby><rb>近寄</rb><rt place="righit">ちかよ</rt></ruby>り来り
-        <lb/><ruby><rb>暫</rb><rt place="righit">しばら</rt></ruby>くは其あたりに<ruby><rb>回馬闖</rb><rt place="righit">まぎり</rt></ruby><ruby><rb>居</rb><rt place="righit">い</rt></ruby>たりしが<ruby><rb>遂</rb><rt place="righit">つい</rt></ruby>に<ruby><rb>端舟</rb><rt place="righit">はせん</rt></ruby>二<ruby><rb>艘</rb><rt place="righit">そふ</rt></ruby>
-        <lb/>おろし一<ruby><rb>艘</rb><rt place="righit">そう</rt></ruby>ごと<ruby><rb>に阿蘭陀人</rb><rt place="righit">おらんだじん</rt></ruby>の様なる者五六人ヅヽ<ruby><rb>乗</rb><rt place="righit">のり</rt></ruby>
-        <lb/>三十目<ruby><rb>計</rb><rt place="righit">ばかり</rt></ruby>の<ruby><rb>鉄砲</rb><rt place="righit">てつほふ</rt></ruby>六<ruby><rb>挺</rb><rt place="righit">てう</rt></ruby>づゝ<ruby><rb>積</rb><rt place="righit">つみ</rt></ruby>て<ruby><rb>再</rb><rt place="righit">さい</rt></ruby>三我舟の<ruby><rb>辺</rb><rt place="righit">ほと</rt></ruby>りを
-        <lb/>めぐり<ruby><rb>試</rb><rt place="righit">こゝろ</rt></ruby>みやがてこなたより<ruby><rb>乗移</rb><rt place="righit">のりうつ</rt></ruby>りたり<ruby><rb>如何</rb><rt place="righit">いか</rt></ruby>なる
-        <lb/><ruby><rb>乱暴</rb><rt place="righit">らんぼふ</rt></ruby>に<ruby><rb>逢</rb><rt place="righit">あふ</rt></ruby>やらんと<ruby><rb>恐</rb><rt place="righit">をそ</rt></ruby>ろしけれど何をいわんも
-        <lb/><ruby><rb>言語</rb><rt place="righit">ごんご</rt></ruby><ruby><rb>通</rb><rt place="righit">つう</rt></ruby>ぜず<ruby><rb>只</rb><rt place="righit">たゞ</rt></ruby>一同に<ruby><rb>掌</rb><rt place="righit">たなごゝろ</rt></ruby>を合せ<ruby><rb>拝</rb><rt place="righit">おが</rt></ruby>み居たり<ruby><rb>彼等</rb><rt place="righit">かれら</rt></ruby>も
+        <lb/>船は<ruby><rb>外国</rb><rt place="right">ぐわひこく</rt></ruby>の船成にや又は<placeName corresp="#薩摩"><ruby><rb>薩摩</rb><rt place="right">さつま</rt></ruby></placeName>より<placeName corresp="#琉球"><ruby><rb>琉球</rb><rt place="right">りうきう</rt></ruby></placeName>に<ruby><rb>通</rb><rt place="right">かよ</rt></ruby>ふ船成
+        <lb/>にやなど<ruby><rb>評</rb><rt place="right">ひよふ</rt></ruby>し居る内次第に<ruby><rb>近</rb><rt place="right">ちか</rt></ruby>づき<ruby><rb>帆数</rb><rt place="right">ほかず</rt></ruby>の<ruby><rb>多</rb><rt place="right">おゝ</rt></ruby>き
+        <lb/>を見て扨こそ<ruby><rb>黒</rb><rt place="right">くろ</rt></ruby>船なれと思ひ一同に<ruby><rb>怖畏</rb><rt place="right">ふい</rt><rt place="left">ヲソレヲソル</rt></ruby>して
+        <lb/>船中に<ruby><rb>聚</rb><rt place="right">あつま</rt></ruby>り居たりし内其船<ruby><rb>漸</rb><rt place="right">よう</rt></ruby>々と<ruby><rb>近寄</rb><rt place="right">ちかよ</rt></ruby>り来り
+        <lb/><ruby><rb>暫</rb><rt place="right">しばら</rt></ruby>くは其あたりに<ruby><rb>回馬闖</rb><rt place="right">まぎり</rt></ruby><ruby><rb>居</rb><rt place="right">い</rt></ruby>たりしが<ruby><rb>遂</rb><rt place="right">つい</rt></ruby>に<ruby><rb>端舟</rb><rt place="right">はせん</rt></ruby>二<ruby><rb>艘</rb><rt place="right">そふ</rt></ruby>
+        <lb/>おろし一<ruby><rb>艘</rb><rt place="right">そう</rt></ruby>ごと<ruby><rb>に阿蘭陀人</rb><rt place="right">おらんだじん</rt></ruby>の様なる者五六人ヅヽ<ruby><rb>乗</rb><rt place="right">のり</rt></ruby>
+        <lb/>三十目<ruby><rb>計</rb><rt place="right">ばかり</rt></ruby>の<ruby><rb>鉄砲</rb><rt place="right">てつほふ</rt></ruby>六<ruby><rb>挺</rb><rt place="right">てう</rt></ruby>づゝ<ruby><rb>積</rb><rt place="right">つみ</rt></ruby>て<ruby><rb>再</rb><rt place="right">さい</rt></ruby>三我舟の<ruby><rb>辺</rb><rt place="right">ほと</rt></ruby>りを
+        <lb/>めぐり<ruby><rb>試</rb><rt place="right">こゝろ</rt></ruby>みやがてこなたより<ruby><rb>乗移</rb><rt place="right">のりうつ</rt></ruby>りたり<ruby><rb>如何</rb><rt place="right">いか</rt></ruby>なる
+        <lb/><ruby><rb>乱暴</rb><rt place="right">らんぼふ</rt></ruby>に<ruby><rb>逢</rb><rt place="right">あふ</rt></ruby>やらんと<ruby><rb>恐</rb><rt place="right">をそ</rt></ruby>ろしけれど何をいわんも
+        <lb/><ruby><rb>言語</rb><rt place="right">ごんご</rt></ruby><ruby><rb>通</rb><rt place="right">つう</rt></ruby>ぜず<ruby><rb>只</rb><rt place="right">たゞ</rt></ruby>一同に<ruby><rb>掌</rb><rt place="right">たなごゝろ</rt></ruby>を合せ<ruby><rb>拝</rb><rt place="right">おが</rt></ruby>み居たり<ruby><rb>彼等</rb><rt place="right">かれら</rt></ruby>も
 
-        <lb/>此方の<ruby><rb>飢渇</rb><rt place="righit">きかつ</rt></ruby>に<ruby><rb>弱</rb><rt place="righit">よは</rt></ruby>りたるを<ruby><rb>察</rb><rt place="righit">さつ</rt></ruby>したる<ruby><rb>体</rb><rt place="righit">てい</rt></ruby>にて<ruby><rb>彼</rb><rt place="righit">かれが</rt></ruby>もと
-        <lb/>船を<ruby><rb>指</rb><rt place="righit">ゆび</rt></ruby>さしあなたへ来らば<ruby><rb>食事</rb><rt place="righit">しよくじ</rt></ruby>をも<ruby><rb>与</rb><rt place="righit">あた</rt></ruby>へむと
-        <lb/>いふ様に手あひにて<ruby><rb>教</rb><rt place="righit">おし</rt></ruby>へ又<ruby><rb>船</rb><rt place="righit">せん</rt></ruby>中に<ruby><rb>残</rb><rt place="righit">のこ</rt></ruby>りし酒四十<ruby><rb>樽</rb><rt place="righit">たる</rt></ruby>
-        <lb/><ruby><rb>砂糖</rb><rt place="righit">さとふ</rt></ruby>十七<ruby><rb>樽</rb><rt place="righit">たる</rt></ruby><ruby><rb>并</rb><rt place="righit">ならびに</rt></ruby><ruby><rb>鍋</rb><rt place="righit">なべ</rt></ruby><ruby><rb>釜</rb><rt place="righit">かま</rt></ruby><ruby><rb>竈</rb><rt place="righit">かまど</rt></ruby><ruby><rb>迄</rb><rt place="righit">まで</rt></ruby>も<ruby><rb>端船</rb><rt place="righit">はせん</rt></ruby>ニ而<ruby><rb>彼</rb><rt place="righit">かの</rt></ruby>船へつみ取
-        <lb/>たり是を<ruby><rb>争</rb><rt place="righit">あらそ</rt></ruby>ひ<ruby><rb>留</rb><rt place="righit">とめ</rt></ruby>んにも<ruby><rb>飢</rb><rt place="righit">うへ</rt></ruby>つかれて力なしとは
-        <lb/>いへ<ruby><rb>僅</rb><rt place="righit">わづか</rt></ruby>に命をつなぐ<ruby><rb>頼</rb><rt place="righit">たの</rt></ruby>みとしたる<ruby><rb>酒</rb><rt place="righit">さけ</rt></ruby><ruby><rb>砂糖</rb><rt place="righit">さとふ</rt></ruby>をさへ
-        <lb/><ruby><rb>奪</rb><rt place="righit">うば</rt></ruby>はれては<ruby><rb>所詮</rb><rt place="righit">しよせん</rt></ruby>我船ニ居たり共<ruby><rb>詮</rb><rt place="righit">せん</rt></ruby>方なしと思ひ
-        <lb/><ruby><rb>是非</rb><rt place="righit">ぜひ</rt></ruby>なく<ruby><rb>皆々</rb><rt place="righit">みな〳〵</rt></ruby><ruby><rb>衣</rb><rt place="righit">い</rt></ruby>るひ※手<ruby><rb>道具</rb><rt place="righit">どうぐ</rt></ruby>を<ruby><rb>取</rb><rt place="righit">とり</rt></ruby>片づけ<ruby><rb>遂</rb><rt place="righit">つい</rt></ruby>に
-        <lb/>我船を<ruby><rb>棄</rb><rt place="righit">すて</rt></ruby>て<ruby><rb>彼</rb><rt place="righit">かの</rt></ruby>舟へ<ruby><rb>乗移</rb><rt place="righit">のりうつ</rt></ruby>りければやがて米の<ruby><rb>飯</rb><rt place="righit">めし</rt></ruby>の
-        <lb/><ruby><rb>握</rb><rt place="righit">にぎ</rt></ruby>りたると<ruby><rb>菜</rb><rt place="righit">な</rt></ruby>の<ruby><rb>塩潰</rb><rt place="righit">しほづけ</rt></ruby>とを持来りて<ruby><rb>各</rb><rt place="righit">おの〳〵</rt></ruby>に<ruby><rb>与</rb><rt place="righit">あた</rt></ruby>へて
+        <lb/>此方の<ruby><rb>飢渇</rb><rt place="right">きかつ</rt></ruby>に<ruby><rb>弱</rb><rt place="right">よは</rt></ruby>りたるを<ruby><rb>察</rb><rt place="right">さつ</rt></ruby>したる<ruby><rb>体</rb><rt place="right">てい</rt></ruby>にて<ruby><rb>彼</rb><rt place="right">かれが</rt></ruby>もと
+        <lb/>船を<ruby><rb>指</rb><rt place="right">ゆび</rt></ruby>さしあなたへ来らば<ruby><rb>食事</rb><rt place="right">しよくじ</rt></ruby>をも<ruby><rb>与</rb><rt place="right">あた</rt></ruby>へむと
+        <lb/>いふ様に手あひにて<ruby><rb>教</rb><rt place="right">おし</rt></ruby>へ又<ruby><rb>船</rb><rt place="right">せん</rt></ruby>中に<ruby><rb>残</rb><rt place="right">のこ</rt></ruby>りし酒四十<ruby><rb>樽</rb><rt place="right">たる</rt></ruby>
+        <lb/><ruby><rb>砂糖</rb><rt place="right">さとふ</rt></ruby>十七<ruby><rb>樽</rb><rt place="right">たる</rt></ruby><ruby><rb>并</rb><rt place="right">ならびに</rt></ruby><ruby><rb>鍋</rb><rt place="right">なべ</rt></ruby><ruby><rb>釜</rb><rt place="right">かま</rt></ruby><ruby><rb>竈</rb><rt place="right">かまど</rt></ruby><ruby><rb>迄</rb><rt place="right">まで</rt></ruby>も<ruby><rb>端船</rb><rt place="right">はせん</rt></ruby>ニ而<ruby><rb>彼</rb><rt place="right">かの</rt></ruby>船へつみ取
+        <lb/>たり是を<ruby><rb>争</rb><rt place="right">あらそ</rt></ruby>ひ<ruby><rb>留</rb><rt place="right">とめ</rt></ruby>んにも<ruby><rb>飢</rb><rt place="right">うへ</rt></ruby>つかれて力なしとは
+        <lb/>いへ<ruby><rb>僅</rb><rt place="right">わづか</rt></ruby>に命をつなぐ<ruby><rb>頼</rb><rt place="right">たの</rt></ruby>みとしたる<ruby><rb>酒</rb><rt place="right">さけ</rt></ruby><ruby><rb>砂糖</rb><rt place="right">さとふ</rt></ruby>をさへ
+        <lb/><ruby><rb>奪</rb><rt place="right">うば</rt></ruby>はれては<ruby><rb>所詮</rb><rt place="right">しよせん</rt></ruby>我船ニ居たり共<ruby><rb>詮</rb><rt place="right">せん</rt></ruby>方なしと思ひ
+        <lb/><ruby><rb>是非</rb><rt place="right">ぜひ</rt></ruby>なく<ruby><rb>皆々</rb><rt place="right">みな〳〵</rt></ruby><ruby><rb>衣</rb><rt place="right">い</rt></ruby>るひ※手<ruby><rb>道具</rb><rt place="right">どうぐ</rt></ruby>を<ruby><rb>取</rb><rt place="right">とり</rt></ruby>片づけ<ruby><rb>遂</rb><rt place="right">つい</rt></ruby>に
+        <lb/>我船を<ruby><rb>棄</rb><rt place="right">すて</rt></ruby>て<ruby><rb>彼</rb><rt place="right">かの</rt></ruby>舟へ<ruby><rb>乗移</rb><rt place="right">のりうつ</rt></ruby>りければやがて米の<ruby><rb>飯</rb><rt place="right">めし</rt></ruby>の
+        <lb/><ruby><rb>握</rb><rt place="right">にぎ</rt></ruby>りたると<ruby><rb>菜</rb><rt place="right">な</rt></ruby>の<ruby><rb>塩潰</rb><rt place="right">しほづけ</rt></ruby>とを持来りて<ruby><rb>各</rb><rt place="right">おの〳〵</rt></ruby>に<ruby><rb>与</rb><rt place="right">あた</rt></ruby>へて
 
     <pb n="14"/>
-        <lb/><ruby><rb>食</rb><rt place="righit">く</rt></ruby>はせたり扨も此百日ばかりの間は<ruby><rb>穀粒</rb><rt place="righit">こくつぶ</rt></ruby>を見る
-        <lb/>事さへも<ruby><rb>叶</rb><rt place="righit">かな</rt></ruby>はず<ruby><rb>暫</rb><rt place="righit">しばら</rt></ruby>くにてもまどろめばいつも飯の
-        <lb/><ruby><rb>㕝</rb><rt place="righit">こと</rt></ruby>をのみ<ruby><rb>夢</rb><rt place="righit">ゆめ</rt></ruby>に見る事の<ruby><rb>程</rb><rt place="righit">ほど</rt></ruby>なれは<ruby><rb>船</rb><rt place="righit">せん</rt></ruby>中の者ども
-        <lb/><ruby><rb>只</rb><rt place="righit">たゞ</rt></ruby><ruby><rb>朝</rb><rt place="righit">あさ</rt></ruby>夕に<ruby><rb>此</rb><rt place="righit">この</rt></ruby>ことのみを思ひ<ruby><rb>哀</rb><rt place="righit">あは</rt></ruby>れ一たび<ruby><rb>飯</rb><rt place="righit">めし</rt></ruby>をくひ
-        <lb/>たらば<ruby><rb>死</rb><rt place="righit">し</rt></ruby>しても<ruby><rb>恨</rb><rt place="righit">うらみ</rt></ruby>あるまじなど<ruby><rb>言</rb><rt place="righit">いゝ</rt></ruby>合ひけるに
-        <lb/><ruby><rb>計</rb><rt place="righit">はか</rt></ruby>らずも此船に<ruby><rb>助</rb><rt place="righit">たす</rt></ruby>けられて一<ruby><rb>握</rb><rt place="righit">にぎり</rt></ruby>の飯をくひける
-        <lb/>時は其<ruby><rb>味</rb><rt place="righit">あじは</rt></ruby>ひの<ruby><rb>美</rb><rt place="righit">うま</rt></ruby>かりし事<ruby><rb>譬</rb><rt place="righit">たと</rt></ruby>ふるに物なし<ruby><rb>振返</rb><rt place="righit">ふりかへ</rt></ruby>りて
-        <lb/>我船を見れば<ruby><rb>破</rb><rt place="righit">やぶ</rt></ruby>れ<ruby><rb>損</rb><rt place="righit">そん</rt></ruby>じたる事目も<ruby><rb>当</rb><rt place="righit">あて</rt></ruby>られず
-        <lb/><ruby><rb>能</rb><rt place="righit">よく</rt></ruby>も今まではかゝる舟にのりて有しことよ今にも
-        <lb/><ruby><rb>砕</rb><rt place="righit">くだ</rt></ruby>けて<ruby><rb>沈</rb><rt place="righit">しづ</rt></ruby>みなんと見ゆるものを心<ruby><rb>強</rb><rt place="righit">づよ</rt></ruby>くも風を待て
+        <lb/><ruby><rb>食</rb><rt place="right">く</rt></ruby>はせたり扨も此百日ばかりの間は<ruby><rb>穀粒</rb><rt place="right">こくつぶ</rt></ruby>を見る
+        <lb/>事さへも<ruby><rb>叶</rb><rt place="right">かな</rt></ruby>はず<ruby><rb>暫</rb><rt place="right">しばら</rt></ruby>くにてもまどろめばいつも飯の
+        <lb/><ruby><rb>㕝</rb><rt place="right">こと</rt></ruby>をのみ<ruby><rb>夢</rb><rt place="right">ゆめ</rt></ruby>に見る事の<ruby><rb>程</rb><rt place="right">ほど</rt></ruby>なれは<ruby><rb>船</rb><rt place="right">せん</rt></ruby>中の者ども
+        <lb/><ruby><rb>只</rb><rt place="right">たゞ</rt></ruby><ruby><rb>朝</rb><rt place="right">あさ</rt></ruby>夕に<ruby><rb>此</rb><rt place="right">この</rt></ruby>ことのみを思ひ<ruby><rb>哀</rb><rt place="right">あは</rt></ruby>れ一たび<ruby><rb>飯</rb><rt place="right">めし</rt></ruby>をくひ
+        <lb/>たらば<ruby><rb>死</rb><rt place="right">し</rt></ruby>しても<ruby><rb>恨</rb><rt place="right">うらみ</rt></ruby>あるまじなど<ruby><rb>言</rb><rt place="right">いゝ</rt></ruby>合ひけるに
+        <lb/><ruby><rb>計</rb><rt place="right">はか</rt></ruby>らずも此船に<ruby><rb>助</rb><rt place="right">たす</rt></ruby>けられて一<ruby><rb>握</rb><rt place="right">にぎり</rt></ruby>の飯をくひける
+        <lb/>時は其<ruby><rb>味</rb><rt place="right">あじは</rt></ruby>ひの<ruby><rb>美</rb><rt place="right">うま</rt></ruby>かりし事<ruby><rb>譬</rb><rt place="right">たと</rt></ruby>ふるに物なし<ruby><rb>振返</rb><rt place="right">ふりかへ</rt></ruby>りて
+        <lb/>我船を見れば<ruby><rb>破</rb><rt place="right">やぶ</rt></ruby>れ<ruby><rb>損</rb><rt place="right">そん</rt></ruby>じたる事目も<ruby><rb>当</rb><rt place="right">あて</rt></ruby>られず
+        <lb/><ruby><rb>能</rb><rt place="right">よく</rt></ruby>も今まではかゝる舟にのりて有しことよ今にも
+        <lb/><ruby><rb>砕</rb><rt place="right">くだ</rt></ruby>けて<ruby><rb>沈</rb><rt place="right">しづ</rt></ruby>みなんと見ゆるものを心<ruby><rb>強</rb><rt place="right">づよ</rt></ruby>くも風を待て
 
         <lb/>数千里の道を走り再び<placeName corresp="#日本">日本</placeName>へ帰らんなどゝ思ひける
     <lb/>事よと我ながら浅ましく思はれける扨此 助けられ
     <lb/>たる船は何国の舟にや知れざりしが後に聞けば
-        <lb/><placeName corresp="#伊西把你亜"><ruby><rb>伊西把你亜</rb><rt place="righit">すぱにや</rt></ruby></placeName>の船なりし由長さ凡十二間計帆柱二
-        <lb/>本弥帆柱三ツ帆数十ヲ計懸りて端舟三<ruby><rb>艘</rb><rt place="righit">そふ</rt></ruby>有り
+        <lb/><placeName corresp="#伊西把你亜"><ruby><rb>伊西把你亜</rb><rt place="right">すぱにや</rt></ruby></placeName>の船なりし由長さ凡十二間計帆柱二
+        <lb/>本弥帆柱三ツ帆数十ヲ計懸りて端舟三<ruby><rb>艘</rb><rt place="right">そふ</rt></ruby>有り
     <lb/>船中の形勢大抵蘭船と同し事にて乗組
         <lb/>人数廿八人船頭たる者二人は<placeName corresp="#伊西把你亜">伊西把你亜</placeName>の者の
     <lb/>よし※ 眼中赤く髪も紅毛人に異ならず其余の
-        <lb/>舟子は皆<placeName corresp="#瑪泥爾剌"><ruby><rb>瑪泥爾剌</rb><rt place="righit">まねるら</rt></ruby></placeName> の者の由ニて<ruby><rb>眼晴</rb><rt place="righit">まなこ</rt></ruby> は日本人と
+        <lb/>舟子は皆<placeName corresp="#瑪泥爾剌"><ruby><rb>瑪泥爾剌</rb><rt place="right">まねるら</rt></ruby></placeName> の者の由ニて<ruby><rb>眼晴</rb><rt place="right">まなこ</rt></ruby> は日本人と
     <lb/>同様にして髪も黒き色なり偖此 舟に乗てより
         <lb/>［<placeName corresp="#瑪泥爾剌">マネルラ</placeName>は<placeName corresp="#呂宋">呂宋</placeName>の都にて即諸島の惣名なり<date>本朝元亀三年</date>より<placeName corresp="#伊西把你亜">イスパニヤ</placeName>の領分になれり］
 
     <pb n="15"/>
     <lb/>六十日ばかりの間東に向ひて䑺 行しが初め両三日
-        <lb/>の程は三度づゝ食事もさせしかど其後は<ruby><rb>減</rb><rt place="righit">げん</rt></ruby>じて
+        <lb/>の程は三度づゝ食事もさせしかど其後は<ruby><rb>減</rb><rt place="right">げん</rt></ruby>じて
     <lb/>両度とし舳と艫にて十三人を二組に分ち船中の
     <lb/>諸用に使ふ二時毎に交※番して昼夜間断なし其
     <lb/>法甚だ厳酷なり少しにても怠る時は綱をふり廻
@@ -299,16 +299,16 @@
     <lb/>疲れ弱ること漂流せし間より甚し其上塩けを
     <lb/>少しも食せしめざれば後には気力衰へ果握飯を
 
-        <lb/>見る事も<ruby><rb>否※</rb><rt place="righit">いや</rt></ruby>なる<ruby><rb>位</rb><rt place="righit">くらい</rt></ruby>になりたり<ruby><rb>去</rb><rt place="righit">され</rt></ruby>ども<ruby><rb>猶</rb><rt place="righit">なほ</rt></ruby><ruby><rb>責</rb><rt place="righit">せめ</rt></ruby>はたりて
-        <lb/><ruby><rb>帆</rb><rt place="righit">ほ</rt></ruby>ばしらの上の<ruby><rb>働</rb><rt place="righit">はたら</rt></ruby>きをせよ<ruby><rb>抔</rb><rt place="righit">など</rt></ruby><ruby><rb>命</rb><rt place="righit">めい</rt></ruby>じけれども<placeName corresp="#日本">日本</placeName>
-        <lb/>にて左様の<ruby><rb>働</rb><rt place="righit">はたら</rt></ruby>きをしたる事なしとさま〳〵手
-        <lb/>合して<ruby><rb>詫</rb><rt place="righit">わび</rt></ruby>しかば<ruby><rb>漸</rb><rt place="righit">やう〳〵</rt></ruby>に<ruby><rb>許</rb><rt place="righit">ゆる</rt></ruby>されたり一二間をあゆむ
-        <lb/>にも目くるめきて<ruby><rb>倒</rb><rt place="righit">たを</rt></ruby>るゝ様なれば<ruby><rb>舟底</rb><rt place="righit">ふなぞこ</rt></ruby>などに<ruby><rb>隠</rb><rt place="righit">かく</rt></ruby>れ
-        <lb/><ruby><rb>忍</rb><rt place="righit">しの</rt></ruby>びてしばしの<ruby><rb>息</rb><rt place="righit">いき</rt></ruby>を<ruby><rb>休</rb><rt place="righit">やす</rt></ruby>めんとすればやがて<ruby><rb>尋</rb><rt place="righit">たづ</rt></ruby>ね
-        <lb/><ruby><rb>来</rb><rt place="righit">きた</rt></ruby>りて<ruby><rb>太</rb><rt place="righit">ふと</rt></ruby>き<ruby><rb>棒</rb><rt place="righit">ぼう</rt></ruby>にて<ruby><rb>敲</rb><rt place="righit">たゝき</rt></ruby>出し<ruby><rb>打擲</rb><rt place="righit">ちよふちやく</rt></ruby>して<ruby><rb>責</rb><rt place="righit">せめ</rt></ruby>つかふ
-        <lb/><ruby><rb>斯</rb><rt place="righit">かく</rt></ruby>の如く<ruby><rb>苦</rb><rt place="righit">くる</rt></ruby>しめらるゝ事<ruby><rb>故</rb><rt place="righit">ゆへ</rt></ruby><ruby><rb>初</rb><rt place="righit">はじ</rt></ruby>めの助けられたる
-        <lb/>時のことは<ruby><rb>忘</rb><rt place="righit">わす</rt></ruby>れて<ruby><rb>只</rb><rt place="righit">たゞ</rt></ruby><ruby><rb>恨</rb><rt place="righit">うら</rt></ruby>めしくのみ思ひ居たり五
-        <lb/>十日計りになりて皆一同に<ruby><rb>髪</rb><rt place="righit">かみ</rt></ruby>を<ruby><rb>切</rb><rt place="righit">きり</rt></ruby>て海に流し
+        <lb/>見る事も<ruby><rb>否※</rb><rt place="right">いや</rt></ruby>なる<ruby><rb>位</rb><rt place="right">くらい</rt></ruby>になりたり<ruby><rb>去</rb><rt place="right">され</rt></ruby>ども<ruby><rb>猶</rb><rt place="right">なほ</rt></ruby><ruby><rb>責</rb><rt place="right">せめ</rt></ruby>はたりて
+        <lb/><ruby><rb>帆</rb><rt place="right">ほ</rt></ruby>ばしらの上の<ruby><rb>働</rb><rt place="right">はたら</rt></ruby>きをせよ<ruby><rb>抔</rb><rt place="right">など</rt></ruby><ruby><rb>命</rb><rt place="right">めい</rt></ruby>じけれども<placeName corresp="#日本">日本</placeName>
+        <lb/>にて左様の<ruby><rb>働</rb><rt place="right">はたら</rt></ruby>きをしたる事なしとさま〳〵手
+        <lb/>合して<ruby><rb>詫</rb><rt place="right">わび</rt></ruby>しかば<ruby><rb>漸</rb><rt place="right">やう〳〵</rt></ruby>に<ruby><rb>許</rb><rt place="right">ゆる</rt></ruby>されたり一二間をあゆむ
+        <lb/>にも目くるめきて<ruby><rb>倒</rb><rt place="right">たを</rt></ruby>るゝ様なれば<ruby><rb>舟底</rb><rt place="right">ふなぞこ</rt></ruby>などに<ruby><rb>隠</rb><rt place="right">かく</rt></ruby>れ
+        <lb/><ruby><rb>忍</rb><rt place="right">しの</rt></ruby>びてしばしの<ruby><rb>息</rb><rt place="right">いき</rt></ruby>を<ruby><rb>休</rb><rt place="right">やす</rt></ruby>めんとすればやがて<ruby><rb>尋</rb><rt place="right">たづ</rt></ruby>ね
+        <lb/><ruby><rb>来</rb><rt place="right">きた</rt></ruby>りて<ruby><rb>太</rb><rt place="right">ふと</rt></ruby>き<ruby><rb>棒</rb><rt place="right">ぼう</rt></ruby>にて<ruby><rb>敲</rb><rt place="right">たゝき</rt></ruby>出し<ruby><rb>打擲</rb><rt place="right">ちよふちやく</rt></ruby>して<ruby><rb>責</rb><rt place="right">せめ</rt></ruby>つかふ
+        <lb/><ruby><rb>斯</rb><rt place="right">かく</rt></ruby>の如く<ruby><rb>苦</rb><rt place="right">くる</rt></ruby>しめらるゝ事<ruby><rb>故</rb><rt place="right">ゆへ</rt></ruby><ruby><rb>初</rb><rt place="right">はじ</rt></ruby>めの助けられたる
+        <lb/>時のことは<ruby><rb>忘</rb><rt place="right">わす</rt></ruby>れて<ruby><rb>只</rb><rt place="right">たゞ</rt></ruby><ruby><rb>恨</rb><rt place="right">うら</rt></ruby>めしくのみ思ひ居たり五
+        <lb/>十日計りになりて皆一同に<ruby><rb>髪</rb><rt place="right">かみ</rt></ruby>を<ruby><rb>切</rb><rt place="right">きり</rt></ruby>て海に流し
 
     <pb n="16"/>
     <lb/>伊西把泥亜船
@@ -316,16 +316,16 @@
     <lb/>寄たる図
 
     <pb n="17"/>
-        <lb/>ぬ此<ruby><rb>間</rb><rt place="righit">あいだ</rt></ruby>舟の行こと早き時には一<ruby><rb>昼夜</rb><rt place="righit">ちうや</rt></ruby>に百七八十里
-        <lb/><ruby><rb>遅</rb><rt place="righit">おそ</rt></ruby>き日とても百里の<ruby><rb>内外</rb><rt place="righit">ないがい</rt></ruby>は<ruby><rb>走</rb><rt place="righit">はし</rt></ruby>りたりと<ruby><rb>覚</rb><rt place="righit">おぼ</rt></ruby>ゆまた<ruby><rb>舟</rb><rt place="righit">ふな</rt></ruby>
-        <lb/><ruby><rb>底</rb><rt place="righit">ぞこ</rt></ruby>は<ruby><rb>銅</rb><rt place="righit">あかゞね</rt></ruby>にて<ruby><rb>包</rb><rt place="righit">つゝみ</rt></ruby>たる<ruby><rb>故</rb><rt place="righit">ゆへ</rt></ruby>にや<ruby><rb>魚</rb><rt place="righit">うを</rt></ruby>など<ruby><rb>付</rb><rt place="righit">つく</rt></ruby>といふ事も
-        <lb/>なく※<ruby><rb>斯</rb><rt place="righit">かく</rt></ruby>て六十日計り<ruby><rb>乗</rb><rt place="righit">のり</rt></ruby>ゆき<date>四月<ruby><rb>中旬</rb><rt place="righit">ちうしゆん</rt></ruby></date>と思ふころ
-        <lb/><ruby><rb>或</rb><rt place="righit">ある</rt></ruby>日の<ruby><rb>未</rb><rt place="righit">ひつじ</rt></ruby>の<ruby><rb>刻</rb><rt place="righit">こく</rt></ruby>ばかりに<ruby><rb>左</rb><rt place="righit">ひだ</rt></ruby>リの方に国のある所に近
-        <lb/>付たり<ruby><rb>則</rb><rt place="righit">すなはち</rt></ruby><ruby><rb>碇</rb><rt place="righit">いかり</rt></ruby>をいれて地方より三四丁ばかり<ruby><rb>沖</rb><rt place="righit">おき</rt></ruby>に
-        <lb/>かゝれり此所<ruby><rb>砂浜</rb><rt place="righit">すなはま</rt></ruby>にて<ruby><rb>汀</rb><rt place="righit">みぎは</rt></ruby>より五丁<ruby><rb>程</rb><rt place="righit">ほど</rt></ruby>上は山にて
-        <lb/><ruby><rb>少</rb><rt place="righit">すこ</rt></ruby>し<ruby><rb>高</rb><rt place="righit">たか</rt></ruby>し船人共<ruby><rb>端舟</rb><rt place="righit">はせん</rt></ruby>にて<ruby><rb>陸</rb><rt place="righit">くが</rt></ruby>に<ruby><rb>上</rb><rt place="righit">あが</rt></ruby>り<ruby><rb>買物</rb><rt place="righit">かいもの</rt></ruby>など
-        <lb/>する<ruby><rb>躰</rb><rt place="righit">てい</rt></ruby>也<ruby><rb>陸</rb><rt place="righit">くが</rt></ruby>よりも人来りて船人と<ruby><rb>何</rb><rt place="righit">なに</rt></ruby>か<ruby><rb>咄</rb><rt place="righit">はな</rt></ruby>しをする
-        <lb/><ruby><rb>様子</rb><rt place="righit">ようす</rt></ruby>ニ見ゆ扨其夜の子の<ruby><rb>刻</rb><rt place="righit">こく</rt></ruby>比<persName corresp="#善助">善助</persName><persName corresp="#初太郎">初太郎</persName><persName corresp="#弥一郎">弥一郎</persName>
+        <lb/>ぬ此<ruby><rb>間</rb><rt place="right">あいだ</rt></ruby>舟の行こと早き時には一<ruby><rb>昼夜</rb><rt place="right">ちうや</rt></ruby>に百七八十里
+        <lb/><ruby><rb>遅</rb><rt place="right">おそ</rt></ruby>き日とても百里の<ruby><rb>内外</rb><rt place="right">ないがい</rt></ruby>は<ruby><rb>走</rb><rt place="right">はし</rt></ruby>りたりと<ruby><rb>覚</rb><rt place="right">おぼ</rt></ruby>ゆまた<ruby><rb>舟</rb><rt place="right">ふな</rt></ruby>
+        <lb/><ruby><rb>底</rb><rt place="right">ぞこ</rt></ruby>は<ruby><rb>銅</rb><rt place="right">あかゞね</rt></ruby>にて<ruby><rb>包</rb><rt place="right">つゝみ</rt></ruby>たる<ruby><rb>故</rb><rt place="right">ゆへ</rt></ruby>にや<ruby><rb>魚</rb><rt place="right">うを</rt></ruby>など<ruby><rb>付</rb><rt place="right">つく</rt></ruby>といふ事も
+        <lb/>なく※<ruby><rb>斯</rb><rt place="right">かく</rt></ruby>て六十日計り<ruby><rb>乗</rb><rt place="right">のり</rt></ruby>ゆき<date>四月<ruby><rb>中旬</rb><rt place="right">ちうしゆん</rt></ruby></date>と思ふころ
+        <lb/><ruby><rb>或</rb><rt place="right">ある</rt></ruby>日の<ruby><rb>未</rb><rt place="right">ひつじ</rt></ruby>の<ruby><rb>刻</rb><rt place="right">こく</rt></ruby>ばかりに<ruby><rb>左</rb><rt place="right">ひだ</rt></ruby>リの方に国のある所に近
+        <lb/>付たり<ruby><rb>則</rb><rt place="right">すなはち</rt></ruby><ruby><rb>碇</rb><rt place="right">いかり</rt></ruby>をいれて地方より三四丁ばかり<ruby><rb>沖</rb><rt place="right">おき</rt></ruby>に
+        <lb/>かゝれり此所<ruby><rb>砂浜</rb><rt place="right">すなはま</rt></ruby>にて<ruby><rb>汀</rb><rt place="right">みぎは</rt></ruby>より五丁<ruby><rb>程</rb><rt place="right">ほど</rt></ruby>上は山にて
+        <lb/><ruby><rb>少</rb><rt place="right">すこ</rt></ruby>し<ruby><rb>高</rb><rt place="right">たか</rt></ruby>し船人共<ruby><rb>端舟</rb><rt place="right">はせん</rt></ruby>にて<ruby><rb>陸</rb><rt place="right">くが</rt></ruby>に<ruby><rb>上</rb><rt place="right">あが</rt></ruby>り<ruby><rb>買物</rb><rt place="right">かいもの</rt></ruby>など
+        <lb/>する<ruby><rb>躰</rb><rt place="right">てい</rt></ruby>也<ruby><rb>陸</rb><rt place="right">くが</rt></ruby>よりも人来りて船人と<ruby><rb>何</rb><rt place="right">なに</rt></ruby>か<ruby><rb>咄</rb><rt place="right">はな</rt></ruby>しをする
+        <lb/><ruby><rb>様子</rb><rt place="right">ようす</rt></ruby>ニ見ゆ扨其夜の子の<ruby><rb>刻</rb><rt place="right">こく</rt></ruby>比<persName corresp="#善助">善助</persName><persName corresp="#初太郎">初太郎</persName><persName corresp="#弥一郎">弥一郎</persName>
 
         <lb/><persName corresp="#多吉">多吉</persName><persName corresp="#利三郎">利三郎</persName><persName corresp="#伊之助">伊之助</persName><persName corresp="#惣助">惣助</persName><rs corresp="#初太郎 #善助 #弥一郎 #多吉 #利三郎 #伊之助 #惣助">七人</rs>の者をり<ruby><rb>端舟</rb><rt place="right">はせん</rt></ruby>に<ruby><rb>乗</rb><rt place="right">のせ</rt></ruby><ruby><rb>上陸</rb><rt place="right">じやうりく</rt></ruby>
         <lb/>すべしとの事なれ<ruby><rb>共</rb><rt place="right">とも</rt></ruby><ruby><rb>夜中</rb><rt place="right">やちう</rt></ruby>といゝ<ruby><rb>殊</rb><rt place="right">こと</rt></ruby>に<ruby><rb>案内</rb><rt place="right">あんない</rt></ruby>も<ruby><rb>知</rb><rt place="right">し</rt></ruby>らぬ
@@ -1237,7 +1237,7 @@
        <lb/><ruby><rb>剱</rb><rt place="right">ケン</rt></ruby>サビレ <ruby><rb>銃</rb><rt place="right">テツホウ</rt></ruby>イシコベタ <ruby><rb>火礟</rb><rt place="right">イシビヤ</rt></ruby>カヽヨシ <ruby><rb>斧</rb><rt place="right">ヲノ</rt></ruby>アチヨ
        <lb/><ruby><rb>鋸</rb><rt place="right">ノコギリ</rt></ruby>サロチヨ <ruby><rb>行李</rb><rt place="right">ニモツ</rt></ruby>カルカ <ruby><rb>書籍</rb><rt place="right">カキモノ</rt></ruby>リヒロ <ruby><rb>帚</rb><rt place="right">ハヽキ</rt></ruby><note rend="割注">マバ○インコ<damage agent="かすれ"><supplied source="筑波本">バ</supplied></damage></note>
        
-       <lb/><ruby><rb>楽器</rb><rt place="right">ガクキ</rt></ruby>ムシカ <ruby><rb>四弦楽器</rb><rt place="right">ヨツイトノガクキ</rt></ruby>ヒタラ <ruby><rb>剃刀</rb><rt place="right">カミソリ</rt></ruby>ナバ<hi rend="righitline">ハア</hi> <ruby><rb>庖丁</rb><rt place="right">ホウテウ</rt></ruby>コテリ<hi rend="right_line">ヨウ</hi>
+       <lb/><ruby><rb>楽器</rb><rt place="right">ガクキ</rt></ruby>ムシカ <ruby><rb>四弦楽器</rb><rt place="right">ヨツイトノガクキ</rt></ruby>ヒタラ <ruby><rb>剃刀</rb><rt place="right">カミソリ</rt></ruby>ナバ<hi rend="rightline">ハア</hi> <ruby><rb>庖丁</rb><rt place="right">ホウテウ</rt></ruby>コテリ<hi rend="right_line">ヨウ</hi>
        <lb/><ruby><rb>針</rb><rt place="right">ハリ</rt></ruby>マグ<hi rend="right_line">ハア</hi> <ruby><rb>筐</rb><rt place="right">ハコ</rt></ruby>カホン <ruby><rb>卓子</rb><rt place="right">ダイ</rt></ruby>メサ <ruby><rb>睡床</rb><rt place="right">ネドコ</rt></ruby>カマ
        <lb/><ruby><rb>榻</rb><rt place="right">ヒデ</rt></ruby>セイ<hi rend="right_line">ヤア</hi> <ruby><rb>枕</rb><rt place="right">マクラ</rt></ruby>アルマダ <ruby><rb>麻索</rb><rt place="right">アサナワ</rt></ruby>メカテ <ruby><rb>石鹸</rb><rt place="right">サホン</rt></ruby>ハボン
        <lb/><ruby><rb>板</rb><rt place="right">イタ</rt></ruby>タブラ <ruby><rb>薪</rb><rt place="right">タキヾ</rt></ruby>レンニヤ <ruby><rb>烟管</rb><rt place="right">キセル</rt></ruby>ビイバア <ruby><rb>鎖</rb><rt place="right">クサリ</rt></ruby>カンタ
@@ -2068,68 +2068,71 @@
 
     
     <back>
-        <listPerson><person xml:id="初太郎">
-            <persName>初太郎</persName>
-            <persona xml:id="善助"></persona>
-            <persName>善助</persName>
-            <persona xml:id="中村屋伊兵衛"></persona>
-            <persona xml:id="七太郎"></persona>
-            <persName>七太郎</persName>
-            <occupation>初太郎兄</occupation>
-            <persona xml:id="伊之助"></persona>
-            <persona xml:id="利三郎"></persona>
-            <persona xml:id="万蔵"></persona>
-            <persona xml:id="要蔵"></persona>
-            <persona xml:id="三兵衛"></persona>
-            <persona xml:id="岩兵衛"></persona>
-            <persona xml:id="官次郎"></persona>
-            <persona xml:id="惣助"></persona>
-            <persona xml:id="多吉"></persona>
-            <persona xml:id="弥一郎"></persona>
-            <persona xml:id="ミゲリチヨウサ"></persona>            
-            <persona xml:id="シゲリチヨウサ"></persona>
-            <persName>シゲリチヨウサ</persName>                     
-            <persona xml:id="イナシヨ"></persona>
-            <persName>イナシヨ</persName>
-            <occupation>シゲリチヨウサの妻</occupation>
-            <persona xml:id="ブラス"></persona>
-            <persName>ブラス</persName>
-            <occupation>シゲリチョウザの長男</occupation>
-            <persona xml:id="アレトウニヤ"></persona>
-            <persName>アレトウニヤ</persName>
-            <occupation>シゲリチョウザの長女</occupation>
-            <persona xml:id="セレシヲン"></persona>
-            <persName>セレシヲン</persName>
-            <occupation>シゲリチョウザの次女</occupation>
-            <persona xml:id="ヘリス"></persona>
-            <persName>ヘリス</persName>
-            <occupation>シゲリチョウザの末女</occupation>
-            <persona xml:id="アゴスヲン"></persona>
-            <persName>アゴスヲン</persName>
-            <occupation>シゲリチョウザの次男</occupation>
-            <persona xml:id="ベロン"></persona>
-            <persona xml:id="老たる父母"></persona>
-            <occupation>初太郎の両親</occupation>
-            <persona xml:id="ポロネル"></persona>
-            <persona xml:id="惣七"></persona>
-            <persona xml:id="弥三兵衛"></persona>
-            <persona xml:id="庄蔵"></persona>
-            <persona xml:id="寿三郎"></persona>
-            <persona xml:id="熊太郎"></persona>
-            <persona xml:id="十吉"></persona>
-            <persona xml:id="甚助"></persona>
-            <persona xml:id="長次郎"></persona>
-            <persona xml:id="喜兵衛"></persona>
-            <persona xml:id="重吉"></persona>
-            <persona xml:id="文蔵"></persona>
-            <persona xml:id="次郎兵衛"></persona>
-            <persona xml:id="弥三郎"></persona>
-            <persona xml:id="惣七郎"></persona>
-            <persona xml:id="アルハレスカブライル"></persona>
-            <persona xml:id="主人の妻と思しき婦人"></persona>           
+        <listPerson>
+            <person xml:id="初太郎">
+                <persName>初太郎</persName>
+                </person>
+                
+            <person xml:id="善助"><persName>善助</persName></person>
+            
+            <person xml:id="中村屋伊兵衛"></person>
+            <person xml:id="七太郎"><persName>七太郎</persName><occupation>初太郎兄</occupation></person>
+            
+            
+            <person xml:id="伊之助"></person>
+            <person xml:id="利三郎"></person>
+            <person xml:id="万蔵"></person>
+            <person xml:id="要蔵"></person>
+            <person xml:id="三兵衛"></person>
+            <person xml:id="岩兵衛"></person>
+            <person xml:id="官次郎"></person>
+            <person xml:id="惣助"></person>
+            <person xml:id="多吉"></person>
+            <person xml:id="弥一郎"></person>
+            <person xml:id="ミゲリチヨウサ"></person>            
+            <person xml:id="シゲリチヨウサ"><persName>シゲリチヨウサ</persName></person>
+                                 
+            <person xml:id="イナシヨ"><persName>イナシヨ</persName>
+                <occupation>シゲリチヨウサの妻</occupation></person>
+            
+            <person xml:id="ブラス"><persName>ブラス</persName>
+                <occupation>シゲリチョウザの長男</occupation></person>
+            
+            <person xml:id="アレトウニヤ"><persName>アレトウニヤ</persName>
+                <occupation>シゲリチョウザの長女</occupation></person>
+            
+            <person xml:id="セレシヲン"><persName>セレシヲン</persName>
+                <occupation>シゲリチョウザの次女</occupation></person>
+            
+            <person xml:id="ヘリス"><persName>ヘリス</persName>
+                <occupation>シゲリチョウザの末女</occupation></person>
+            
+            <person xml:id="アゴスヲン"><persName>アゴスヲン</persName>
+                <occupation>シゲリチョウザの次男</occupation></person>
+            
+            <person xml:id="ベロン"></person>
+            <person xml:id="老たる父母"><occupation>初太郎の両親</occupation></person>
+            
+            <person xml:id="ポロネル"></person>
+            <person xml:id="惣七"></person>
+            <person xml:id="弥三兵衛"></person>
+            <person xml:id="庄蔵"></person>
+            <person xml:id="寿三郎"></person>
+            <person xml:id="熊太郎"></person>
+            <person xml:id="十吉"></person>
+            <person xml:id="甚助"></person>
+            <person xml:id="長次郎"></person>
+            <person xml:id="喜兵衛"></person>
+            <person xml:id="重吉"></person>
+            <person xml:id="文蔵"></person>
+            <person xml:id="次郎兵衛"></person>
+            <person xml:id="弥三郎"></person>
+            <person xml:id="惣七郎"></person>
+            <person xml:id="アルハレスカブライル"></person>
+            <person xml:id="主人の妻と思しき婦人"></person>           
                   
             
-        </person></listPerson>
+      </listPerson>
         
         <listPlace>            
             <place xml:id="亜細亜"><placeName>亜細亜 </placeName>                         
